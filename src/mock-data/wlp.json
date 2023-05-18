@@ -1,0 +1,640 @@
+{
+  "onboarding": {
+    "sliders": [
+      {
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956195/mymc-web/mobile/wlp/onboarding/Onboarding_1.png",
+        "title": "Welcome to your\nWeight Loss ProgramNAME_PLACEHOLDER",
+        "detail": "We are so excited to be part of your health journey. We’d like to get to know you so that we can build a successful program that’s tailored to your lifestyle!"
+      },
+      {
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1642486583/mymc-web/mobile/wlp/onboarding/Onboarding_2_V2.jpg",
+        "title": "Australia's only Weight Loss Program incorporating nutrition, exercise and psychology",
+        "detail": "Our chef-prepared menu is made fresh and delivered to your door, while our team of experts are there to support you along the way."
+      },
+      {
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1642486550/mymc-web/mobile/wlp/onboarding/Onboarding_3_v2.png",
+        "title": "Get ready!\nOur program starts:\nPROGRAM_START_PLACEHOLDER",
+        "tip": "95.7% of people would recommend this program for weight loss"
+      }
+    ],
+    "footer": "Don’t miss out!\nRegistration closes REGISTRATION_CLOSE_PLACEHOLDER"
+  },
+  "check": {
+    "title": "Before we start,\nwe just need a couple of quick details",
+    "message": "Sorry! Unfortunately we don’t deliver this program to your location just yet.\n\nYou can order a regular meal plan through the MYMC app, or check our Store Locator for your closest MYMC stockist."
+  },
+  "preset": [
+    {
+      "key": "wlpProfile",
+      "title": "Tell us a bit about yourself",
+      "description": "We collect this info to create accurate calorie targets for your meal plan",
+      "questions": [
+        {
+          "id": "gender",
+          "question": "I am a",
+          "type": "single-choice"
+        },
+        {
+          "id": "birthday",
+          "question": "My date of birth is",
+          "type": "single-choice"
+        },
+        {
+          "id": "weight",
+          "question": "My current weight is",
+          "type": "single-choice"
+        }
+      ]
+    },
+    {
+      "key": "wlpFemale",
+      "conditions": [
+        {
+          "key": "gender",
+          "value": "female"
+        }
+      ],
+      "questions": [
+        {
+          "id": "pregnant",
+          "question": "Are you currently pregnant?",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "Yes",
+              "value": "yes",
+              "tip": "Weight loss is not recommended during pregnancy unless it is under the strict supervision of a healthcare professional.\n\nInstead, we encourage you to choose from our entire menu of 90+ deliciously healthy options."
+            },
+            {
+              "name": "No",
+              "value": "no"
+            }
+          ]
+        },
+        {
+          "id": "breastfeeding",
+          "question": "Are you currently breastfeeding?",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "Yes",
+              "value": "yes",
+              "tip": "As a breastfeeding mum, we understand life can get busy! We have put together a nutritionally balanced meal plan for you. We recommend consulting your health care professional for any specific health and nutrition advice."
+            },
+            {
+              "name": "No",
+              "value": "no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wlpBehaviour",
+      "questions": [
+        {
+          "id": "loseWeightBefore",
+          "question": "Have you tried to lose weight before?",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "Yes - however life got in the way and I gave up",
+              "value": "Yes - however life got in the way and I gave up"
+            },
+            {
+              "name": "Yes - I reached my goal but slowly put weight back on over time",
+              "value": "Yes - I reached my goal but slowly put weight back on over time"
+            },
+            {
+              "name": "Yes - but I would like to try a new personalised approach",
+              "value": "Yes - but I would like to try a new personalised approach"
+            },
+            {
+              "name": "No",
+              "value": "No"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wlpBehaviour",
+      "questions": [
+        {
+          "id": "relationshipWithFood",
+          "question": "Which best describes your relationship with food?",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "I have a healthy relationship with food",
+              "value": "I have a healthy relationship with food"
+            },
+            {
+              "name": "I need some more advice around how to eat healthy",
+              "value": "I need some more advice around how to eat healthy",
+              "tip": "Our team of dietitians are happy to give you the guidance you need, so simply reach out to us whenever you like."
+            },
+            {
+              "name": "It's not great so I would like some more support",
+              "value": "It's not great so I would like some more support",
+              "tip": "We understand and are here to support you. Our team of dietitians will reach out to you directly to help you along your journey."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wlpBehaviour",
+      "questions": [
+        {
+          "id": "planPreference",
+          "question": "Which statement do you relate to the most?",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "I could use more motivation. Sometimes I give up too easily.",
+              "value": "I could use more motivation. Sometimes I give up too easily.",
+              "loadingScreen": {
+                "title": "Understanding your needs and habits...",
+                "description": "Calculating...",
+                "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956164/mymc-web/mobile/wlp/onboarding/LoadingPlan.png",
+                "duration": 5000
+              }
+            },
+            {
+              "name": "A detailed plan is key to my success as it keeps me focused on my goal",
+              "value": "A detailed plan is key to my success as it keeps me focused on my goal",
+              "loadingScreen": {
+                "title": "Understanding your needs and habits...",
+                "description": "Calculating...",
+                "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956164/mymc-web/mobile/wlp/onboarding/LoadingPlan.png",
+                "duration": 5000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wlpPlan",
+      "conditions": [
+        {
+          "key": "gender",
+          "value": "female"
+        },
+        {
+          "key": "loseWeightBefore",
+          "value": "Yes - but I would like to try a new personalised approach",
+          "ne": true
+        },
+        {
+          "key": "breastfeeding",
+          "value": "yes",
+          "ne": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "type",
+          "question": "We recommend our Personalised Plan for you",
+          "image": "https://res.cloudinary.com/djl0oafkz/image/upload/v1640165293/mecca/plan-image_jaxunm.png",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "Personalised Plan",
+              "value": "wlp-full",
+              "tip": "This is a sustainable approach to long term weight loss \n\nPlans from $179"
+            },
+            {
+              "name": "1200 Calorie\nStarter Fixed Plan",
+              "value": "wlp-fixed-female",
+              "tip": "This 1200 calorie plan is designed to kickstart your weight loss journey\n\nPlans from $165",
+              "loadingScreen": {
+                "description": "This plan is designed to fast track your weight loss without the need for heavy or high intensity exercise.\n\nTry lighter forms of exercise such as walking or yoga.",
+                "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956720/mymc-web/mobile/wlp/onboarding/no-exercise_en7htl.png",
+                "duration": 5000,
+                "action": true
+              }
+            }
+          ]
+        }
+      ],
+      "tip": {
+        "title": "What's the difference?",
+        "icon": "tooltip",
+        "image": {
+          "uri": {
+            "dark": "https://res.cloudinary.com/diqfjkeck/image/upload/v1647992291/mymc-web/mobile/wlp/dark/Personalised_v_Starter_Dark.png",
+            "light": "https://res.cloudinary.com/diqfjkeck/image/upload/v1647992327/mymc-web/mobile/wlp/light/Personalised_v_Starter.png"
+          },
+          "aspectRatio": 0.27
+        }
+      }
+    },
+    {
+      "key": "wlpPlan",
+      "conditions": [
+        {
+          "key": "gender",
+          "value": "male"
+        },
+        {
+          "key": "loseWeightBefore",
+          "value": "Yes - but I would like to try a new personalised approach",
+          "ne": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "type",
+          "question": "We recommend our Personalised Plan for you",
+          "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956615/mymc-web/mobile/wlp/onboarding/plan-image_jaxunm.png",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "Personalised Plan",
+              "value": "wlp-full",
+              "tip": "This is a sustainable approach to long term weight loss \n\nPlans from $179"
+            },
+            {
+              "name": "1500 Calorie\nStarter Fixed Plan",
+              "value": "wlp-fixed-male",
+              "tip": "This 1500 calorie plan is designed to kickstart your weight loss journey\n\nPlans from $199",
+              "loadingScreen": {
+                "description": "This plan is designed to fast track your weight loss without the need for heavy or high intensity exercise.\n\nTry lighter forms of exercise such as walking or yoga.",
+                "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956720/mymc-web/mobile/wlp/onboarding/no-exercise_en7htl.png",
+                "duration": 5000,
+                "action": true
+              }
+            }
+          ]
+        }
+      ],
+      "tip": {
+        "title": "What's the difference?",
+        "icon": "tooltip",
+        "image": {
+          "uri": {
+            "dark": "https://res.cloudinary.com/diqfjkeck/image/upload/v1647992291/mymc-web/mobile/wlp/dark/Personalised_v_Starter_Dark.png",
+            "light": "https://res.cloudinary.com/diqfjkeck/image/upload/v1647992327/mymc-web/mobile/wlp/light/Personalised_v_Starter.png"
+          },
+          "aspectRatio": 0.27
+        }
+      }
+    },
+    {
+      "key": "wlpExercise",
+      "conditions": [
+        {
+          "key": "breastfeeding",
+          "value": "yes",
+          "ne": true
+        }
+      ],
+      "questions": [
+        {
+          "id": "activeLevelType",
+          "question": "Do you have a weekly exercise routine?",
+          "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956670/mymc-web/mobile/wlp/onboarding/chg-exercise_2x_o4ettu.png",
+          "type": "single-choice",
+          "options": [
+            {
+              "name": "Yes, I have a plan",
+              "value": "fullyPersonalised"
+            },
+            {
+              "name": "Not really, please give me some guidance",
+              "value": "autoSelection",
+              "loadingScreen": {
+                "title": "Creating your exercise routine...",
+                "subtitle": "Did you know?",
+                "description": "Exercise increases your metabolic rate, which helps burn more calories & improves mental health",
+                "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956670/mymc-web/mobile/wlp/onboarding/chg-exercise_2x_o4ettu.png",
+                "duration": 5000
+              }
+            },
+            {
+              "name": "I’m relatively inactive or don’t exercise",
+              "value": "noExercise",
+              "loadingScreen": {
+                "title": "That’s okay, we’ll create a plan to ensure you reach your goals",
+                "subtitle": "We recommend",
+                "description": "Going for a daily walk for fresh air",
+                "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956720/mymc-web/mobile/wlp/onboarding/no-exercise_en7htl.png",
+                "duration": 5000
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "wlpActive",
+      "conditions": [
+        {
+          "key": "breastfeeding",
+          "value": "yes",
+          "ne": true
+        },
+        {
+          "key": "activeLevelType",
+          "value": "autoSelection"
+        }
+      ],
+      "title": "We’ve put together a routine to get you started",
+      "description": "Your activity levels will help determine your food intake. Don’t worry - you can swap around your days later.",
+      "questions": [
+        {
+          "id": "activeLevels",
+          "question": "My active levels are",
+          "type": "multiple-choice"
+        }
+      ],
+      "loadingScreen": {
+        "title": "Analysing your nutritional needs...",
+        "description": "Based on our research of similar people, we are building the best menu for you.",
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956164/mymc-web/mobile/wlp/onboarding/LoadingPlan.png",
+        "duration": 5000
+      }
+    },
+    {
+      "key": "wlpActive",
+      "conditions": [
+        {
+          "key": "breastfeeding",
+          "value": "yes",
+          "ne": true
+        },
+        {
+          "key": "activeLevelType",
+          "value": "autoSelection",
+          "ne": true
+        }
+      ],
+      "title": "Tell us how active you are during the week",
+      "description": "Your activity levels will help determine your food intake. Don’t worry - you can swap around your days later.",
+      "questions": [
+        {
+          "id": "activeLevels",
+          "question": "My active levels are",
+          "type": "multiple-choice"
+        }
+      ],
+      "loadingScreen": {
+        "title": "Analysing your nutritional needs...",
+        "description": "Based on our research of similar people, we are building the best menu for you.",
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956164/mymc-web/mobile/wlp/onboarding/LoadingPlan.png",
+        "duration": 5000
+      }
+    },
+    {
+      "key": "wlpActive",
+      "conditions": [
+        {
+          "key": "breastfeeding",
+          "value": "yes"
+        }
+      ],
+      "title": "Here’s our recommendation for breastfeeding women",
+      "description": "Activity levels determine your daily food intake. While you are breastfeeding, your calorie needs tend to be higher so we have preselected ‘Very Active’ days for you.",
+      "questions": [
+        {
+          "id": "activeLevels",
+          "question": "My active levels are",
+          "type": "multiple-choice"
+        }
+      ],
+      "loadingScreen": {
+        "title": "Analysing your nutritional needs...",
+        "description": "Based on our research of similar people, we are building the best menu for you.",
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641956164/mymc-web/mobile/wlp/onboarding/LoadingPlan.png",
+        "duration": 5000
+      }
+    }
+  ],
+  "activeLevelTips": [
+    {
+      "name": "Lightly Active Day",
+      "value": 1,
+      "detail": "Light amount of incidental activity (<7k steps/day). This is a planned recovery day or if you are injured."
+    },
+    {
+      "name": "Active Day",
+      "value": 2,
+      "detail": "Moderate amount of incidental activity (7-12k steps day) + completing 45-60mins of exercise."
+    },
+    {
+      "name": "Very Active Day",
+      "value": 3,
+      "detail": "Significant amount of incidental activity (>12k steps/day) + completing 60-75mins of exercise."
+    }
+  ],
+  "activeLevels": {
+    "breastfeeding": [3, 3, 3, 3, 3, 3, 3],
+    "autoSelection": [1, 2, 1, 1, 1, 3, 2],
+    "noExercise": [1, 1, 1, 1, 1, 1, 1],
+    "fullyPersonalised": [0, 0, 0, 0, 0, 0, 0]
+  },
+  "mealPlan": {
+    "loadingScreen": {
+      "female": {
+        "title": "We are Australia's only holistic program that combines nutrition, exercise and psychology",
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1642037725/mymc-web/mobile/wlp/onboarding/chg-female_awb8pn.png",
+        "duration": 5000
+      },
+      "male": {
+        "title": "We are Australia's only holistic program that combines nutrition, exercise and psychology",
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1642037712/mymc-web/mobile/wlp/onboarding/chg-male_oyrgg5.png",
+        "duration": 5000
+      }
+    },
+    "reviewPopup": {
+      "segments": [
+        {
+          "name": "Complete Plan",
+          "value": "wlp-full"
+        },
+        {
+          "name": "Lite Plan",
+          "value": "wlp-lite"
+        }
+      ],
+      "contexts": [
+        {
+          "value": "wlp-full",
+          "title": "<p><span style=\"font-size: 28px; line-height: 32px; font-weight: 600\">WLP_FULL_PRICE_PLACEHOLDER </span>/ weekly</p>",
+          "list": [
+            {
+              "icon": "checked",
+              "name": "3 chef-inspired & dietitian-designed main meals each day"
+            },
+            {
+              "icon": "checked",
+              "name": "3 perfectly-portioned snacks and exclusive treats each day"
+            },
+            {
+              "icon": "checked",
+              "name": "Flexibility to customise your snacks to your activity level"
+            },
+            {
+              "icon": "checked",
+              "name": "Nutrition, wellbeing & training support"
+            },
+            {
+              "icon": "checked",
+              "name": "Exclusive access to MYMC Online Community"
+            }
+          ],
+          "footer": "<p style=\"font-size: 16px\"><span>Total weekly value       </span><strong>$1046</strong></p>"
+        },
+        {
+          "value": "wlp-lite",
+          "title": "<p><span style=\"font-size: 28px; line-height: 32px; font-weight: 600\">WLP_LITE_PRICE_PLACEHOLDER </span>/ weekly</p>",
+          "list": [
+            {
+              "icon": "checked",
+              "name": "3 chef-inspired & dietitian-designed main meals each day"
+            },
+            {
+              "icon": "cross",
+              "name": "3 perfectly-portioned snacks and exclusive treats each day"
+            },
+            {
+              "icon": "cross",
+              "name": "Flexibility to customise your snacks to your activity level"
+            },
+            {
+              "icon": "checked",
+              "name": "Nutrition, wellbeing & training support"
+            },
+            {
+              "icon": "checked",
+              "name": "Exclusive access to MYMC Online Community"
+            }
+          ],
+          "footer": "<p style=\"font-size: 16px\"><span>Total weekly value       </span><strong>$956</strong></p>"
+        }
+      ]
+    },
+    "reviewModal": {
+      "image": {
+        "uri": {
+          "dark": "https://res.cloudinary.com/diqfjkeck/image/upload/v1647992291/mymc-web/mobile/wlp/dark/Complete_v_Lite_Dark_2.png",
+          "light": "https://res.cloudinary.com/diqfjkeck/image/upload/v1647992327/mymc-web/mobile/wlp/light/Complete_v_Lite_2.png"
+        },
+        "aspectRatio": 0.27
+      }
+    },
+    "switchPopup": {
+      "female": {
+        "title": "<p style=\"font-size: 20px; font-weight: 600\">Would you like to achieve more out of your program?</p>",
+        "subtitle": "Our pilot study on the Complete Plan found that:",
+        "details": [
+          {
+            "icon": "checked",
+            "name": "54% achieved their goals within the first 3 weeks"
+          },
+          {
+            "icon": "checked",
+            "name": "On average, people lost at least 3.9% of body weight "
+          },
+          {
+            "icon": "checked",
+            "name": "9/10 would recommend this plan to friends & family"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Switch to Complete Plan",
+            "target": "wlp-full",
+            "preset": "primary"
+          },
+          {
+            "name": "Continue with Lite Plan",
+            "preset": "clear"
+          }
+        ]
+      },
+      "male": {
+        "title": "<p style=\"font-size: 20px; font-weight: 600\">Would you like to achieve more out of your program?</p>",
+        "subtitle": "Our pilot study on the Complete Plan found that:",
+        "details": [
+          {
+            "icon": "checked",
+            "name": "54% achieved their goals within the first 3 weeks"
+          },
+          {
+            "icon": "checked",
+            "name": "On average, people lost at least 3.9% of body weight "
+          },
+          {
+            "icon": "checked",
+            "name": "9/10 would recommend this plan to friends & family"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Switch to Complete Plan",
+            "target": "wlp-full",
+            "preset": "primary"
+          },
+          {
+            "name": "Continue with Lite Plan",
+            "preset": "clear"
+          }
+        ]
+      }
+    },
+    "mealTips": {
+      "title": "Keep it fresh!",
+      "image": "https://res.cloudinary.com/diqfjkeck/image/upload/v1641514284/mymc-web/mobile/salad.png",
+      "detail": "<p>We want you to enjoy our fresh salads at their best, so we’ve made sure you can only add them to the <b>first 4 days</b> of your weekly meal plan.</p>"
+    },
+    "bundleTips": {
+      "wlp-full": [
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/brekkie.png",
+          "title": "Breakfast",
+          "detail": "A high protein start to the day to give you the energy to power through the morning."
+        },
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/cookie.png",
+          "title": "Light Snack",
+          "detail": "A light, nutrient-dense snack is a great way to keep up energy levels and reduce the temptation to snack on empty calories."
+        },
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/recharge.png",
+          "title": "Recharge Snack",
+          "detail": "A high protein snack consumed between meals closer to the time of your exercise session will aid in recovery."
+        },
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/pm.png",
+          "title": "PM Treat",
+          "detail": "A healthy diet does not mean missing out. Treat yourself to a healthy dessert after dinner without the guilt."
+        }
+      ],
+      "wlp-fixed-female": [
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/brekkie.png",
+          "title": "Breakfast",
+          "detail": "A high protein start to the day to give you the energy to power through the morning."
+        },
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/cookie.png",
+          "title": "Light Snack",
+          "detail": "A light, nutrient-dense snack is a great way to keep up energy levels and reduce the temptation to snack on empty calories."
+        },
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/recharge.png",
+          "title": "Recharge Snack",
+          "detail": "A high protein snack consumed between meals closer to the time of your exercise session will aid in recovery."
+        },
+        {
+          "icon": "https://res.cloudinary.com/diqfjkeck/image/upload/v1652234611/icons/pm.png",
+          "title": "PM Treat",
+          "detail": "A healthy diet does not mean missing out. Treat yourself to a healthy dessert after dinner without the guilt."
+        }
+      ]
+    }
+  }
+}

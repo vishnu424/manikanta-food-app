@@ -1,0 +1,6447 @@
+[
+  {
+    "__typename": "Product",
+    "_id": "5bf56db2313e1e66d1826d48",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 1 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Coconut Turmeric Chicken"
+      }
+    ],
+    "barcode": "9353333002663",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch004_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452456-ch004.jpg"
+        }
+      ],
+      "id": "48124695",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452456-ch004.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Coconut Turmeric Chicken with Pumpkin Mash",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 422,
+      "carbs": 20.4,
+      "fats": 20.8,
+      "protein": 35.6,
+      "size": 350,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH004",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56dd6313e1e66d1826d52",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 3 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Paella"
+      }
+    ],
+    "barcode": "9353333000935",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch015_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch015.jpg"
+        }
+      ],
+      "id": "48124692",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch015.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-02-10T04:19:04.405Z",
+    "name": "Chicken Paella With Brown Rice",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 426,
+      "carbs": 30.5,
+      "fats": 13.1,
+      "protein": 44.4,
+      "size": 370,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH015",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56df2313e1e66d1826d5c",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 4 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Spinach Ricotta Ravioli"
+      }
+    ],
+    "barcode": "9353333003264",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vg005_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vg005.jpg"
+        }
+      ],
+      "id": "48124754",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vg005.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Spinach Ricotta Ravioli In Pumpkin Sauce",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 512,
+      "carbs": 60.1,
+      "fats": 20.1,
+      "protein": 20.2,
+      "size": 340,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VG005",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5cecd656a16dfc6c5b132baa",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Lemon Garlic Chicken"
+      }
+    ],
+    "barcode": "9353333002687",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch022_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch022.jpg"
+        }
+      ],
+      "id": "48124659",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-ch022.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-05-28T06:33:58.707Z",
+    "name": "Lemon Garlic Chicken with Potato Bake",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 698,
+      "carbs": 33.9,
+      "fats": 31.1,
+      "protein": 70.5,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH022",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5cecddb0a16dfc6c5b132bab",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 4 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Asian Chicken"
+      }
+    ],
+    "barcode": "9353333001031",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch023_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch023.jpg"
+        }
+      ],
+      "id": "48124663",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-ch023.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-05-28T07:05:20.587Z",
+    "name": "Asian Chicken Stir Fry with Hokkien Noodles",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 604,
+      "carbs": 68.8,
+      "fats": 12.3,
+      "protein": 52.8,
+      "size": 450,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH023",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5d05f2f8432b091c2a613fee",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Breakfast Burrito Bowl"
+      }
+    ],
+    "barcode": "9353333001116",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk001_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-bk001.jpg"
+        }
+      ],
+      "id": "48124683",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-bk001.jpg"
+      }
+    },
+    "grossPrice": 8.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-06-16T07:42:48.344Z",
+    "name": "Breakfast Burrito Bowl with Avocado & Lamb Sausages",
+    "netPrice": 8.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 600,
+      "carbs": 51.2,
+      "fats": 29.5,
+      "protein": 26.6,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK001",
+    "status": "ACTIVE",
+    "subCategory": ["HOT_BREAKFAST"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5e1ec1b8bfe1dc67395be2f0",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002540",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn006_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn006.jpg"
+        }
+      ],
+      "id": "48124742",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn006.jpg"
+      }
+    },
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-01-15T07:39:36.725Z",
+    "name": "Protein Bite: Cookie Dough",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 170,
+      "carbs": 7.7,
+      "fats": 10.8,
+      "protein": 7.1,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN006",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5c0cc3c6ebeab61659b05991",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 3 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chipotle Chicken"
+      }
+    ],
+    "barcode": "9353333000638",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch018_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch018.jpg"
+        }
+      ],
+      "id": "48124658",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-ch018.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-12-09T07:27:02.963Z",
+    "name": "Chipotle Chicken Burrito Bowl",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 704,
+      "carbs": 62.3,
+      "fats": 20.5,
+      "protein": 65.4,
+      "size": 450,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH018",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5d369b2efc34b155ab69370e",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 4 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Peri Peri Chicken"
+      }
+    ],
+    "barcode": "9353333001222",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch029_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch029.jpg"
+        }
+      ],
+      "id": "48124686",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch029.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-07-23T05:29:18.937Z",
+    "name": "Peri Peri Chicken with Tomato Rice & Green Beans",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 470,
+      "carbs": 34,
+      "fats": 13.3,
+      "protein": 50.2,
+      "size": 350,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH029",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5e549dc737fb2f042c8677bb",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "(PLUS) Chipotle Chicken"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "marketingTags",
+        "value": [
+          {
+            "id": "40839496",
+            "text": "Top Pick"
+          },
+          {
+            "id": "40839502",
+            "text": "Dietitian's Pick"
+          },
+          {
+            "id": "40839501",
+            "text": "Muscle Building"
+          }
+        ]
+      }
+    ],
+    "barcode": "9353333001550",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-pp002_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pp002.jpg"
+        }
+      ],
+      "id": "48124720",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-pp002.jpg"
+      }
+    },
+    "grossPrice": 11.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-02-25T04:08:39.539Z",
+    "name": "Chipotle Chicken",
+    "netPrice": 11.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 416,
+      "carbs": 5.1,
+      "fats": 18.8,
+      "protein": 56.5,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PP002",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5e549e9837fb2f042c8677bc",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "(PLUS) Lemon Pepper Chicken"
+      }
+    ],
+    "barcode": "9353333001567",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pp003_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-pp003.jpg"
+        }
+      ],
+      "id": "48124707",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-pp003.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-02-25T04:12:08.283Z",
+    "name": "Lemon Pepper Chicken",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 318,
+      "carbs": 0.6,
+      "fats": 7.8,
+      "protein": 60.8,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PP003",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5e549f462ac5f10406d9d511",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "(PLUS) Pulled Beef"
+      }
+    ],
+    "barcode": "9353333001574",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pp004_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pp004.jpg"
+        }
+      ],
+      "id": "48124726",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-pp004.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-02-25T04:15:02.372Z",
+    "name": "Pulled Beef",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 307,
+      "carbs": 7,
+      "fats": 9,
+      "protein": 48.6,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PP004",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5fadfd848e1995264f7f0b57",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003202",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr001_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr001.jpg"
+        }
+      ],
+      "id": "48124713",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr001.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-11-13T03:29:08.715Z",
+    "name": "Protein Shake: Chocolate Flavoured",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 176,
+      "carbs": 9.8,
+      "fats": 1.4,
+      "protein": 30,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR001",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_SHAKES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56d61313e1e66d1826d40",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 1 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Braised Beef Ragu"
+      }
+    ],
+    "barcode": "9353333004070",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452445-be005_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be005.jpg"
+        }
+      ],
+      "id": "48124680",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be005.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Braised Beef Ragu With Polenta & Roast Vegetables",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 383,
+      "carbs": 25.9,
+      "fats": 12.3,
+      "protein": 39.5,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE005",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56d61313e1e66d1826d42",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 2 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Spaghetti Bolognese"
+      }
+    ],
+    "barcode": "9353333000133",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be008_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452444-be008.jpg"
+        }
+      ],
+      "id": "48124665",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452444-be008.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Spaghetti Bolognese",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 501,
+      "carbs": 49.7,
+      "fats": 15.1,
+      "protein": 37.5,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE008",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56d61313e1e66d1826d43",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 2 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Beef Stroganoff"
+      }
+    ],
+    "barcode": "9353333004353",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be009_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be009.jpg"
+        }
+      ],
+      "id": "48124655",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be009.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Beef Stroganoff With Spinach Fettuccine",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 487,
+      "carbs": 30.9,
+      "fats": 11.9,
+      "protein": 61.6,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE009",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5d89a259f92d2b33ff10952a",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Thai Yellow Curry"
+      }
+    ],
+    "barcode": "9353333002991",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn013_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn013.jpg"
+        }
+      ],
+      "id": "48124752",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vn013.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-09-24T04:58:01.972Z",
+    "name": "Thai Yellow Curry with Tofu & Brown Rice",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 477,
+      "carbs": 43.6,
+      "fats": 23.1,
+      "protein": 20.2,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN013",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5e1ec0da459cab675d290dc1",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002533",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-sn005_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-sn005.jpg"
+        }
+      ],
+      "id": "48124701",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452539-sn005.jpg"
+      }
+    },
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-01-15T07:35:54.509Z",
+    "name": "Protein Bite: Cashew & Coconut",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 177,
+      "carbs": 6.4,
+      "fats": 12.5,
+      "protein": 7.4,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN005",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5e1ec287e267a46763ef44ff",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002557",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-sn007_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-sn007.jpg"
+        }
+      ],
+      "id": "48124740",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-sn007.jpg"
+      }
+    },
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-01-15T07:43:03.153Z",
+    "name": "Protein Bite: Peanut Butter Choc",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 178,
+      "carbs": 6,
+      "fats": 11.6,
+      "protein": 7.6,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN007",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5ed9fc37022d194f06825084",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 5 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Peppercorn Steak"
+      }
+    ],
+    "barcode": "9353333001963",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be020_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be020.jpg"
+        }
+      ],
+      "id": "48124671",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be020.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-06-05T08:03:03.985Z",
+    "name": "Peppercorn Steak with Chimichurri Roast Vegetables",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 587,
+      "carbs": 25.7,
+      "fats": 27.5,
+      "protein": 55.6,
+      "size": 360,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE020",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5eda038649c1fc4f04da9642",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "(PLUS) Butter Chicken"
+      }
+    ],
+    "barcode": "9353333002045",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-pp007_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pp007.jpg"
+        }
+      ],
+      "id": "48124723",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-pp007.jpg"
+      }
+    },
+    "grossPrice": 11.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-06-05T08:34:14.240Z",
+    "name": "Butter Chicken",
+    "netPrice": 11.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 330,
+      "carbs": 8,
+      "fats": 12.1,
+      "protein": 46.7,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PP007",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5f9849c3310a1f1fc4f6fc0a",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Frittata"
+      }
+    ],
+    "barcode": "9353333002373",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-bk005_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk005.jpg"
+        }
+      ],
+      "id": "48124664",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk005.jpg"
+      }
+    },
+    "grossPrice": 8.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-10-27T16:24:35.192Z",
+    "name": "Breakfast Spicy Vegetable Frittata with Fetta",
+    "netPrice": 8.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 354,
+      "carbs": 13.7,
+      "fats": 21.2,
+      "protein": 24.2,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK005",
+    "status": "ACTIVE",
+    "subCategory": ["HOT_BREAKFAST"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56d61313e1e66d1826d41",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 1 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Massaman Beef"
+      }
+    ],
+    "barcode": "9353333004087",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be007_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be007.jpg"
+        }
+      ],
+      "id": "48124677",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be007.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Beef Massaman Curry With Brown Rice",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 587,
+      "carbs": 56.8,
+      "fats": 19.5,
+      "protein": 43.8,
+      "size": 333,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE007",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56df2313e1e66d1826d5f",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 5 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Beef Lasagne"
+      }
+    ],
+    "barcode": "9353333000485",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be003_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be003.jpg"
+        }
+      ],
+      "id": "48124656",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be003.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-02-10T04:19:04.405Z",
+    "name": "Beef Lasagne",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 447,
+      "carbs": 23.7,
+      "fats": 18.6,
+      "protein": 42.1,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE003",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56df2313e1e66d1826d62",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 1 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Crumbed Potatoes"
+      }
+    ],
+    "barcode": "9353333000775",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch003_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch003.jpg"
+        }
+      ],
+      "id": "48124678",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-ch003.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Crumbed Chicken with Roasted Potatoes",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 554,
+      "carbs": 48.7,
+      "fats": 19.1,
+      "protein": 44,
+      "size": 340,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH003",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5cecd533bb98ba6c26836ef8",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 5 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Naked Beef Fajitas"
+      }
+    ],
+    "barcode": "9353333001055",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be017_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be017.jpg"
+        }
+      ],
+      "id": "48124666",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be017.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-05-28T06:29:07.381Z",
+    "name": "Naked Beef Fajitas",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 350,
+      "carbs": 13,
+      "fats": 9.7,
+      "protein": 49.8,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE017",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "60de0e5466f2bf71b63d8db1",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 12 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "COOKIE: Choc Chip"
+      }
+    ],
+    "barcode": "9353333003141",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn027.jpg"
+        }
+      ],
+      "id": "48124737",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn027.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-01T18:49:56.304Z",
+    "name": "Protein Cookie: Choc Chip",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 339,
+      "carbs": 19.9,
+      "fats": 16.7,
+      "protein": 24.9,
+      "size": 92,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN027",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_COOKIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4cb",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003271",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr004.jpg"
+        }
+      ],
+      "id": "48124715",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr004.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.120Z",
+    "name": "Protein Shake: Mocha Flavoured",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 177,
+      "carbs": 9.6,
+      "fats": 1.4,
+      "protein": 30,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR004",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_SHAKES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6170fd9564fbb51883238471",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 6 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Fried Rice"
+      }
+    ],
+    "barcode": "9353333003530",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch050.jpg"
+        }
+      ],
+      "id": "48124687",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch050.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-10-21T05:41:41.927Z",
+    "name": "Chicken Fried Rice With Vegetables",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 434,
+      "carbs": 37.3,
+      "fats": 11.3,
+      "protein": 40.9,
+      "size": 350,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH050",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6180bfcb4b4f397e50fb4d4d",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "_MUFFIN: Raspberry & White Choc Flavour"
+      }
+    ],
+    "barcode": "9353333003622",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452543-sn031.jpg"
+        }
+      ],
+      "id": "48124731",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452543-sn031.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-11-02T04:34:19.979Z",
+    "name": "Protein Muffin: Raspberry & White Choc Flavour",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 301,
+      "carbs": 28.8,
+      "fats": 12.8,
+      "protein": 15.8,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN031",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_MUFFINS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2d9",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452630-wl004.jpg"
+        }
+      ],
+      "id": "48124760",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452630-wl004.jpg"
+      }
+    },
+    "grossPrice": 0.7,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.436Z",
+    "name": "Kiwi Fruit",
+    "netPrice": 0.7,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 45,
+      "carbs": 8.7,
+      "fats": 0.4,
+      "protein": 0.9,
+      "size": 78,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL004",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2df",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-wl010.jpg"
+        }
+      ],
+      "id": "48124764",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-wl010.jpg"
+      }
+    },
+    "grossPrice": 5.2,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Apple + Protein Cookie: Choc Chip",
+    "netPrice": 5.2,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 437,
+      "carbs": 40.4,
+      "fats": 17.2,
+      "protein": 25.4,
+      "size": 256,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL010",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e1",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452632-wl012.jpg"
+        }
+      ],
+      "id": "48124773",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452632-wl012.jpg"
+      }
+    },
+    "grossPrice": 5.65,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Apple + Protein Shake: Chocolate Flavoured",
+    "netPrice": 5.65,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 274,
+      "carbs": 30.3,
+      "fats": 1.9,
+      "protein": 30.5,
+      "size": 539,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL012",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "628f1131389d8e000f036402",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Plus Chicken Tortellini"
+      }
+    ],
+    "barcode": "9353333004162",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-pch003.jpg"
+        }
+      ],
+      "id": "48124698",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452539-pch003.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-05-26T05:33:37.759Z",
+    "name": "Chicken Tortellini Boscaiola With Beef Rashers LARGE",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 839,
+      "carbs": 71.7,
+      "fats": 36.6,
+      "protein": 53.6,
+      "size": 455,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PCH003",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62b17bbe29f09100106856db",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 WALL"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Spiced Pumpkin & Split Pea Soup"
+      }
+    ],
+    "barcode": "9353333004247",
+    "category": "SOUPS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-so004.jpg"
+        }
+      ],
+      "id": "48124722",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-so004.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-21T08:05:18.215Z",
+    "name": "Spiced Pumpkin & Split Pea Soup",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 228,
+      "carbs": 20,
+      "fats": 4.4,
+      "protein": 21.2,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SO004",
+    "status": "ACTIVE",
+    "subCategory": ["SOUPS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad32a1",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      }
+    ],
+    "barcode": "9353333004490",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-ch061.jpg"
+        }
+      ],
+      "id": "48124702",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452539-ch061.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.552Z",
+    "name": "Naked Chicken Fajitas",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 286,
+      "carbs": 17,
+      "fats": 6.9,
+      "protein": 36.4,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH061",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad32a2",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      }
+    ],
+    "barcode": "9353333004483",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-ch060.jpg"
+        }
+      ],
+      "id": "48124717",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-ch060.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.552Z",
+    "name": "Smokey BBQ Chicken With Creamy Broccoli",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 473,
+      "carbs": 31,
+      "fats": 21.3,
+      "protein": 37.6,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH060",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56d61313e1e66d1826d3f",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 1 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Smokey BBQ Brisket"
+      }
+    ],
+    "barcode": "9353333004063",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452444-be004_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452444-be004.jpg"
+        }
+      ],
+      "id": "48124670",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452444-be004.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Smokey BBQ Brisket With Sweet Potato, Kale & Fetta Mash",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 527,
+      "carbs": 43.7,
+      "fats": 20,
+      "protein": 39.8,
+      "size": 350,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE004",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6004f18fa7b9d158bda5f8de",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333001697",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn021.jpg"
+        }
+      ],
+      "id": "48124734",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn021.jpg"
+      }
+    },
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-01-18T02:25:19.360Z",
+    "name": "Protein Bite: Choc Caramel Fudge",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 135,
+      "carbs": 7.3,
+      "fats": 3.8,
+      "protein": 8,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN021",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "60de0e5466f2bf71b63d8db2",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 12 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "COOKIE: Salted Caramel and Macadamia"
+      }
+    ],
+    "barcode": "9353333003158",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn028.jpg"
+        }
+      ],
+      "id": "48124745",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn028.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-01T18:49:56.304Z",
+    "name": "Protein Cookie: Salted Caramel and Macadamia",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 336,
+      "carbs": 19.8,
+      "fats": 16.5,
+      "protein": 24.9,
+      "size": 92,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN028",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_COOKIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "60de0e5466f2bf71b63d8db3",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 12 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "COOKIE: Triple Choc"
+      }
+    ],
+    "barcode": "9353333003134",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn029.jpg"
+        }
+      ],
+      "id": "48124729",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn029.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-01T18:49:56.304Z",
+    "name": "Protein Cookie: Triple Choc",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 338,
+      "carbs": 19.7,
+      "fats": 16.7,
+      "protein": 25,
+      "size": 92,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN029",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_COOKIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4c9",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "YOGHURT: Mango Passionfruit with Coconut"
+      }
+    ],
+    "barcode": "9353333003387",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-bk013.jpg"
+        }
+      ],
+      "id": "48124653",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-bk013.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.120Z",
+    "name": "Protein Yoghurt: Mango Passionfruit with Coconut",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 219,
+      "carbs": 9.5,
+      "fats": 10.3,
+      "protein": 20,
+      "size": 190,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK013",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_YOGHURT"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6170fd9564fbb5188323846e",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Vegan Pesto Pasta with Vegetables"
+      }
+    ],
+    "barcode": "9353333003608",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452630-vn026.jpg"
+        }
+      ],
+      "id": "48124759",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452630-vn026.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-10-21T05:41:41.926Z",
+    "name": "Vegan Pesto Pasta With Vegetables & Sundried Tomatoes",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 547,
+      "carbs": 58.3,
+      "fats": 23.1,
+      "protein": 22.6,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN026",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2d6",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-wl001.jpg"
+        }
+      ],
+      "id": "48124757",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-wl001.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.435Z",
+    "name": "Veggie Sticks and Dip Pack",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 72,
+      "carbs": 6,
+      "fats": 3.9,
+      "protein": 2.3,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL001",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2dc",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-wl007.jpg"
+        }
+      ],
+      "id": "48124758",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-wl007.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.436Z",
+    "name": "2 x Peppermint Creams + Protein Shake: Chocolate Flavoured",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 295,
+      "carbs": 24.6,
+      "fats": 7.2,
+      "protein": 31,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL007",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2de",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-wl009.jpg"
+        }
+      ],
+      "id": "48124763",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-wl009.jpg"
+      }
+    },
+    "grossPrice": 5.2,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Apple + Protein Cookie: Salted Caramel & Macadamia",
+    "netPrice": 5.2,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 434,
+      "carbs": 40.3,
+      "fats": 17,
+      "protein": 25.4,
+      "size": 256,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL009",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2ea",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333003721",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 1,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.438Z",
+    "name": "Roasted Fava Beans: Italian Style Tomato",
+    "netPrice": 0.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 91,
+      "carbs": 8,
+      "fats": 1.9,
+      "protein": 7.4,
+      "size": 25,
+      "unit": "g"
+    },
+    "promotionTotal": 0.5,
+    "shelfLifeDays": 14,
+    "sku": "SN035",
+    "status": "ACTIVE",
+    "subCategory": ["FAVA_BEANS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61fb6c5d8fc82b58d6afe2a7",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      }
+    ],
+    "barcode": "9353333004049",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452445-ch055.png"
+        }
+      ],
+      "id": "48124662",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452445-ch055.png"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-02-03T05:47:09.629Z",
+    "name": "Thai Green Chicken Curry With Basmati Rice",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 451,
+      "carbs": 44.9,
+      "fats": 13.4,
+      "protein": 35.8,
+      "size": 320,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH055",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62a276e79bd1940010edb77e",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Creamy Chicken & Mushroom Pasta"
+      }
+    ],
+    "barcode": "9353333004292",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch057.jpg"
+        }
+      ],
+      "id": "48124668",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-ch057.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-09T22:40:39.589Z",
+    "name": "Creamy Chicken & Mushroom Pasta",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 542,
+      "carbs": 39.9,
+      "fats": 26.2,
+      "protein": 34.6,
+      "size": 320,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH057",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6004f18fa7b9d158bda5f8df",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333001703",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn022.jpg"
+        }
+      ],
+      "id": "48124733",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn022.jpg"
+      }
+    },
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-01-18T02:25:19.360Z",
+    "name": "Protein Bite: Chunky Choc Popcorn",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 159,
+      "carbs": 9,
+      "fats": 8.8,
+      "protein": 7.5,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN022",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6177a62f4b4f397e50fa6345",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003486",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr005.jpg"
+        }
+      ],
+      "id": "48124696",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr005.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-10-26T06:54:39.051Z",
+    "name": "Protein Shake: Mango & Coconut Flavoured",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 193,
+      "carbs": 7.4,
+      "fats": 3,
+      "protein": 33.8,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR005",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_SHAKES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6177a62f4b4f397e50fa6346",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003493",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr006.jpg"
+        }
+      ],
+      "id": "48124697",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr006.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-10-26T06:54:39.051Z",
+    "name": "Protein Shake: Strawberry Flavoured",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 177,
+      "carbs": 7,
+      "fats": 2.3,
+      "protein": 31.9,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR006",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_SHAKES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6180bfcb4b4f397e50fb4d4c",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "_MUFFIN: Banana & Walnut Flavour "
+      }
+    ],
+    "barcode": "9353333003615",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn030.jpg"
+        }
+      ],
+      "id": "48124738",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn030.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-11-02T04:34:19.979Z",
+    "name": "Protein Muffin: Banana & Walnut Flavour",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 301,
+      "carbs": 28.6,
+      "fats": 12.8,
+      "protein": 15.8,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN030",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_MUFFINS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6180bfcb4b4f397e50fb4d4e",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "_MUFFIN: Double Choc Flavour"
+      }
+    ],
+    "barcode": "9353333003639",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn032.jpg"
+        }
+      ],
+      "id": "48124719",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn032.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-11-02T04:34:19.979Z",
+    "name": "Protein Muffin: Double Choc Flavour",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 300,
+      "carbs": 28.7,
+      "fats": 12.6,
+      "protein": 15.8,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN032",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_MUFFINS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e3",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Kiwi Fruit + Fava Beans: Italian Style Tomato",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 136,
+      "carbs": 16.7,
+      "fats": 2.3,
+      "protein": 8.3,
+      "size": 103,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL014",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e4",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Apple + Fava Beans: Lightly Salted",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 194,
+      "carbs": 31,
+      "fats": 2.6,
+      "protein": 7.3,
+      "size": 189,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL015",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "628f1131389d8e000f036404",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Plus Beef Stroganoff"
+      }
+    ],
+    "barcode": "9353333004179",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pbe001.jpg"
+        }
+      ],
+      "id": "48124711",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-pbe001.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-05-26T05:33:37.772Z",
+    "name": "Beef Stroganoff With Spinach Fettuccine LARGE",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 802,
+      "carbs": 58.6,
+      "fats": 19,
+      "protein": 94.8,
+      "size": 550,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PBE001",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "628f1131389d8e000f036403",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Plus Creamy Tomato"
+      }
+    ],
+    "barcode": "9353333004186",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pch004.jpg"
+        }
+      ],
+      "id": "48124709",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-pch004.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-05-26T05:33:37.771Z",
+    "name": "Creamy Tomato Chicken Fettuccine LARGE",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 816,
+      "carbs": 61.3,
+      "fats": 38.9,
+      "protein": 51.2,
+      "size": 550,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PCH004",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62a276e79bd1940010edb77f",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Lentil Dahl with BasmatiRice"
+      }
+    ],
+    "barcode": "9353333004322",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452630-vn028.jpg"
+        }
+      ],
+      "id": "48124746",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452630-vn028.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-09T22:40:39.590Z",
+    "name": "Lentil Dahl With Basmati Rice, Spiced Potato & Cauliflower",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 481,
+      "carbs": 72.6,
+      "fats": 10.3,
+      "protein": 22,
+      "size": 370,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN028",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62a276e79bd1940010edb780",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Tuna Mornay Pasta Bake"
+      }
+    ],
+    "barcode": "9353333004315",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-sf015.jpg"
+        }
+      ],
+      "id": "48124724",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-sf015.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-09T22:40:39.590Z",
+    "name": "Tuna Mornay Pasta Bake",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 519,
+      "carbs": 45.3,
+      "fats": 19,
+      "protein": 36.8,
+      "size": 325,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SF015",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62b17bbe29f09100106856d8",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 WALL"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Thai Red Curry Soup"
+      }
+    ],
+    "barcode": "9353333004209",
+    "category": "SOUPS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-so001.jpg"
+        }
+      ],
+      "id": "48124710",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-so001.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-21T08:05:18.214Z",
+    "name": "Chicken Thai Red Curry Soup",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 273,
+      "carbs": 18,
+      "fats": 8.8,
+      "protein": 26.4,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SO001",
+    "status": "ACTIVE",
+    "subCategory": ["SOUPS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62b17bbe29f09100106856d9",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 WALL"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken & Vegetable Soup"
+      }
+    ],
+    "barcode": "9353333004216",
+    "category": "SOUPS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-so002.jpg"
+        }
+      ],
+      "id": "48124712",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-so002.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-21T08:05:18.215Z",
+    "name": "Chicken & Vegetable Soup",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 260,
+      "carbs": 26.8,
+      "fats": 4.4,
+      "protein": 26,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SO002",
+    "status": "ACTIVE",
+    "subCategory": ["SOUPS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62f2979069027d000f19bfbe",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 Wall"
+      }
+    ],
+    "barcode": "9353333004407",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn038.jpg"
+        }
+      ],
+      "id": "48124725",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn038.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-08-09T17:21:20.390Z",
+    "name": "Plant-Based Protein Cookie: Almond Maple",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 386,
+      "carbs": 42.9,
+      "fats": 17.5,
+      "protein": 20.2,
+      "size": 92,
+      "unit": "g"
+    },
+    "promotionTotal": 4.95,
+    "shelfLifeDays": 14,
+    "sku": "SN038",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_COOKIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad32a0",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 2 L"
+      }
+    ],
+    "barcode": "9353333004476",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be036.jpg"
+        }
+      ],
+      "id": "48124673",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be036.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.552Z",
+    "name": "Herb Roasted Steak With Potato Salad",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 445,
+      "carbs": 29.3,
+      "fats": 18.3,
+      "protein": 38,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE036",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56dc1313e1e66d1826d49",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 1 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Garlic & Herb Chicken"
+      }
+    ],
+    "barcode": "9353333000041",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452453-ch006_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch006.jpg"
+        }
+      ],
+      "id": "48124688",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch006.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Garlic & Herb Chicken With Vegetable Risotto",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 377,
+      "carbs": 28.7,
+      "fats": 12.9,
+      "protein": 33.6,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH006",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56dd6313e1e66d1826d4d",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 2 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Butter Chicken Pilaf"
+      }
+    ],
+    "barcode": "9353333000010",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch010_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452453-ch010.jpg"
+        }
+      ],
+      "id": "48124682",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452453-ch010.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Butter Chicken With Saffron Pilaf",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 573,
+      "carbs": 54.2,
+      "fats": 18.4,
+      "protein": 44.9,
+      "size": 360,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH010",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4ca",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "YOGHURT: Strawberry with Almond & Cranberry"
+      }
+    ],
+    "barcode": "9353333003394",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk014.jpg"
+        }
+      ],
+      "id": "48124649",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk014.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.120Z",
+    "name": "Protein Yoghurt: Strawberry with Almond & Cranberry",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 204,
+      "carbs": 9.9,
+      "fats": 7.8,
+      "protein": 20.1,
+      "size": 190,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK014",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_YOGHURT"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2db",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452630-wl006.jpg"
+        }
+      ],
+      "id": "48124748",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452630-wl006.jpg"
+      }
+    },
+    "grossPrice": 2.7,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.436Z",
+    "name": "Apple + 2 x Peppermint Creams",
+    "netPrice": 2.7,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 217,
+      "carbs": 35.3,
+      "fats": 6.3,
+      "protein": 1.5,
+      "size": 189,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL006",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e2",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Apple + Fava Beans: Salt & Vinegar",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 188,
+      "carbs": 28.4,
+      "fats": 2.3,
+      "protein": 7.8,
+      "size": 189,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL013",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61fb6c5d8fc82b58d6afe2a8",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 3 R"
+      }
+    ],
+    "barcode": "9353333004001",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be031.jpg"
+        }
+      ],
+      "id": "48124675",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be031.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-02-03T05:47:09.629Z",
+    "name": "Beef Ravioli With Napolitana Sauce",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 482,
+      "carbs": 52.3,
+      "fats": 12,
+      "protein": 39.1,
+      "size": 380,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE031",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61fb6c5d8fc82b58d6afe2a9",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 3 R"
+      }
+    ],
+    "barcode": "9353333004018",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452445-be032.jpg"
+        }
+      ],
+      "id": "48124650",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452445-be032.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-02-03T05:47:09.629Z",
+    "name": "Cajun Beef With Sweet Potato Wedges",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 375,
+      "carbs": 29.2,
+      "fats": 10.3,
+      "protein": 37.5,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE032",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61fb6c5d8fc82b58d6afe2a5",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      }
+    ],
+    "barcode": "9353333004025",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch053.png"
+        }
+      ],
+      "id": "48124689",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch053.png"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-02-03T05:47:09.628Z",
+    "name": "Spicy Buffalo Chicken With Mac & Cheese",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 497,
+      "carbs": 29.2,
+      "fats": 24.3,
+      "protein": 38.4,
+      "size": 320,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH053",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "628f1131389d8e000f036401",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Plus Spicy Buffalo"
+      }
+    ],
+    "barcode": "9353333004155",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-pch002.jpg"
+        }
+      ],
+      "id": "48124708",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452539-pch002.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-05-26T05:33:37.758Z",
+    "name": "Spicy Buffalo Chicken With Mac & Cheese LARGE",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 828,
+      "carbs": 55.1,
+      "fats": 41.7,
+      "protein": 55.3,
+      "size": 500,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PCH002",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62a276e79bd1940010edb77c",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 6 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Spaghetti & Meatballs"
+      }
+    ],
+    "barcode": "9353333004261",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452445-be033.jpg"
+        }
+      ],
+      "id": "48124648",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452445-be033.jpg"
+      }
+    },
+    "grossPrice": 11.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-09T22:40:39.588Z",
+    "name": "Spaghetti & Meatballs",
+    "netPrice": 11.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 587,
+      "carbs": 62.4,
+      "fats": 19.8,
+      "protein": 34.6,
+      "size": 450,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE033",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62a276e79bd1940010edb77d",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 6 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Beef Rogan Josh With Basmati Rice & Veg"
+      }
+    ],
+    "barcode": "9353333004278",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be034.jpg"
+        }
+      ],
+      "id": "48124679",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be034.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-09T22:40:39.589Z",
+    "name": "Beef Rogan Josh With Basmati Rice & Vegetables",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 413,
+      "carbs": 39.7,
+      "fats": 14,
+      "protein": 30.2,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE034",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad32a3",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      }
+    ],
+    "barcode": "9353333004513",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn030.jpg"
+        }
+      ],
+      "id": "48124751",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vn030.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.552Z",
+    "name": "Smokey Tomato Rice with Pine Nuts & Olives",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 455,
+      "carbs": 51.7,
+      "fats": 17.2,
+      "protein": 20.6,
+      "size": 415,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN030",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56dc1313e1e66d1826d4a",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 2 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Satay Chicken"
+      }
+    ],
+    "barcode": "9353333000027",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch007_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452445-ch007.jpg"
+        }
+      ],
+      "id": "48124661",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452445-ch007.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Satay Chicken with Basmati Rice & Green Peas",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 513,
+      "carbs": 48.7,
+      "fats": 16.1,
+      "protein": 41.8,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH007",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5c0cc3c8ebeab61659b05994",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 4 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Lemon Pepper Chicken"
+      }
+    ],
+    "barcode": "9353333002670",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch020_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch020.jpg"
+        }
+      ],
+      "id": "48124681",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch020.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-12-09T07:27:06.109Z",
+    "name": "Lemon Pepper Chicken With Pea Mash",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 486,
+      "carbs": 13.8,
+      "fats": 22,
+      "protein": 53.2,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH020",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5cde296e15b85500168da4eb",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 4 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Vegan Lasagne"
+      }
+    ],
+    "barcode": "9353333002960",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn004_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn004.jpg"
+        }
+      ],
+      "id": "48124753",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vn004.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-05-17T03:24:30.449Z",
+    "name": "Vegetable Lasagne With Vegan Bolognese & Cashew Sauce",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 471,
+      "carbs": 40.3,
+      "fats": 23.9,
+      "protein": 20,
+      "size": 415,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN004",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56dd6313e1e66d1826d55",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Lamb Shanks"
+      }
+    ],
+    "barcode": "9353333000850",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-lb002_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-lb002.jpg"
+        }
+      ],
+      "id": "48124732",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-lb002.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Lamb Shanks with Sweet Potato Mash & Peas",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 385,
+      "carbs": 28.8,
+      "fats": 12.3,
+      "protein": 36.5,
+      "size": 340,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "LB002",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5cde3eff15b85500168da4ec",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Wholemeal Spaghetti"
+      }
+    ],
+    "barcode": "9353333002977",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn005_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn005.jpg"
+        }
+      ],
+      "id": "48124765",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vn005.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-05-17T04:56:31.643Z",
+    "name": "Vegan Spaghetti Bolognese",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 448,
+      "carbs": 64.7,
+      "fats": 8.7,
+      "protein": 21.9,
+      "size": 340,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN005",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5d89a0fd20a2ec342a551c65",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Falafel & Chickpeas"
+      }
+    ],
+    "barcode": "9353333002984",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn012_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn012.jpg"
+        }
+      ],
+      "id": "48124762",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vn012.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-09-24T04:52:13.529Z",
+    "name": "Falafel Buddha Bowl with Chickpeas and Tahini",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 548,
+      "carbs": 62.9,
+      "fats": 22.2,
+      "protein": 22,
+      "size": 360,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN012",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56dd6313e1e66d1826d4e",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 3 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Pesto Pasta"
+      }
+    ],
+    "barcode": "9353333004360",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch011_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch011.jpg"
+        }
+      ],
+      "id": "48124693",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-ch011.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2018-10-01T21:09:38.722Z",
+    "name": "Pesto Chicken With Penne Pasta & Green Vegetables",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 517,
+      "carbs": 26.7,
+      "fats": 25.4,
+      "protein": 41.9,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH011",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5bf56df2313e1e66d1826d6a",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 4 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Vegan Mexican"
+      }
+    ],
+    "barcode": "9353333002946",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vg001_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vg001.jpg"
+        }
+      ],
+      "id": "48124770",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vg001.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2019-02-10T04:19:04.405Z",
+    "name": "Mexican Superfood Bowl",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 492,
+      "carbs": 68.7,
+      "fats": 12.3,
+      "protein": 20.1,
+      "size": 425,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VG001",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5ecf40e4a944fe57fa872fb4",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002564",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-sn011_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn011.jpg"
+        }
+      ],
+      "id": "48124736",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn011.jpg"
+      }
+    },
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-05-28T04:41:08.553Z",
+    "name": "Protein Bite: Hazelnut Crisp",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 134,
+      "carbs": 8.5,
+      "fats": 5.6,
+      "protein": 6.6,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN011",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5f984c4074479d1fa1e91725",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Vegan Beef Ragu"
+      }
+    ],
+    "barcode": "9353333000201",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn022_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-vn022.jpg"
+        }
+      ],
+      "id": "48124774",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-vn022.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-10-27T16:35:12.097Z",
+    "name": "Vegan Beef Ragu with Vegetables & Spinach Pasta",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 303,
+      "carbs": 21.2,
+      "fats": 11.2,
+      "protein": 24.7,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "VN022",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5ff7afa0ff31645b3b7955b1",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 6 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Mongolian Beef"
+      }
+    ],
+    "barcode": "9353333001789",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-be025.jpg"
+        }
+      ],
+      "id": "48124669",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-be025.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-01-08T01:04:32.838Z",
+    "name": "Mongolian Beef with Asian Greens & Brown Rice",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 394,
+      "carbs": 39.5,
+      "fats": 5.8,
+      "protein": 42.2,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE025",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6046b8c96ecab45f5f7be525",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002755",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452543-sn017.jpg"
+        }
+      ],
+      "id": "48124744",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452543-sn017.jpg"
+      }
+    },
+    "grossPrice": 3.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-03-08T23:52:41.885Z",
+    "name": "Low Carb Bar: Choc Chip Cookie Dough",
+    "netPrice": 3.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 225,
+      "carbs": 5.2,
+      "fats": 12.2,
+      "protein": 11.2,
+      "size": 50,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN017",
+    "status": "ACTIVE",
+    "subCategory": ["LOW_CARB_BARS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6046b8c96ecab45f5f7be527",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002779",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn020.jpg"
+        }
+      ],
+      "id": "48124739",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn020.jpg"
+      }
+    },
+    "grossPrice": 3.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-03-08T23:52:41.886Z",
+    "name": "Low Carb Bar: Salted Caramel",
+    "netPrice": 3.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 219,
+      "carbs": 4.6,
+      "fats": 11.9,
+      "protein": 11.1,
+      "size": 50,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN020",
+    "status": "ACTIVE",
+    "subCategory": ["LOW_CARB_BARS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4c8",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "YOGHURT: Vanilla with Choc Almond & Coconut"
+      }
+    ],
+    "barcode": "9353333003370",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk012.jpg"
+        }
+      ],
+      "id": "48124651",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk012.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.120Z",
+    "name": "Protein Yoghurt: Vanilla with Choc, Almond & Coconut",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 206,
+      "carbs": 13.3,
+      "fats": 7.6,
+      "protein": 19.8,
+      "size": 190,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK012",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_YOGHURT"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5fadfe487f5a80279ba4cb2b",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003219",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-dr002_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr002.jpg"
+        }
+      ],
+      "id": "48124714",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr002.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-11-13T03:32:24.905Z",
+    "name": "Protein Shake: Vanilla & Cinnamon Flavoured",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 171,
+      "carbs": 9.6,
+      "fats": 1.1,
+      "protein": 30,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR002",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_SHAKES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5ff7d2a3b9bab0078f43503a",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 5 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken & Chimichurri"
+      }
+    ],
+    "barcode": "9353333002519",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch043.jpg"
+        }
+      ],
+      "id": "48124684",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch043.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-01-08T03:33:55.978Z",
+    "name": "Chicken & Chimichurri Mayo with Pumpkin Mash & Green Beans",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 391,
+      "carbs": 14,
+      "fats": 14.4,
+      "protein": 48.3,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH043",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6004f18fa7b9d158bda5f8e0",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333001710",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 2.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-01-18T02:25:19.361Z",
+    "name": "Protein Bite: Banana Bread",
+    "netPrice": 2.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 154,
+      "carbs": 11.4,
+      "fats": 6.4,
+      "protein": 7.3,
+      "size": 37,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN023",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_BITES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6046b8c96ecab45f5f7be526",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002762",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn018.jpg"
+        }
+      ],
+      "id": "48124741",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn018.jpg"
+      }
+    },
+    "grossPrice": 3.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-03-08T23:52:41.886Z",
+    "name": "Low Carb Bar: Lemon & Coconut",
+    "netPrice": 3.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 229,
+      "carbs": 4.8,
+      "fats": 13,
+      "protein": 11.5,
+      "size": 50,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN018",
+    "status": "ACTIVE",
+    "subCategory": ["LOW_CARB_BARS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6046b8c96ecab45f5f7be52a",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002809",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn026.jpg"
+        }
+      ],
+      "id": "48124743",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn026.jpg"
+      }
+    },
+    "grossPrice": 3.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-03-08T23:52:41.886Z",
+    "name": "Low Carb Bar: Choc Mint",
+    "netPrice": 3.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 214,
+      "carbs": 6.6,
+      "fats": 11.1,
+      "protein": 11.3,
+      "size": 50,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN026",
+    "status": "ACTIVE",
+    "subCategory": ["LOW_CARB_BARS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "60917fe09152883669e4a10c",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chia Crusted Salmon"
+      }
+    ],
+    "barcode": "9353333001765",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-sf013.jpg"
+        }
+      ],
+      "id": "48124716",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-sf013.jpg"
+      }
+    },
+    "grossPrice": 12.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-05-04T17:09:52.970Z",
+    "name": "Chia Crusted Salmon with Soy Glaze, Broccolini & Rice",
+    "netPrice": 12.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 536,
+      "carbs": 34.4,
+      "fats": 26.3,
+      "protein": 36.9,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SF013",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4c5",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "OATS: Caramel Hazelnut & Cinnamon Flavour"
+      }
+    ],
+    "barcode": "9353333003349",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk009.jpg"
+        }
+      ],
+      "id": "48124667",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk009.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.119Z",
+    "name": "Protein Oats: Caramel, Hazelnut & Cinnamon Flavour",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 376,
+      "carbs": 43.9,
+      "fats": 11.8,
+      "protein": 20.7,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK009",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_OATS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4c6",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "OATS: Chocolate & Almond Flavour"
+      }
+    ],
+    "barcode": "9353333003356",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452444-bk010.jpg"
+        }
+      ],
+      "id": "48124676",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452444-bk010.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.119Z",
+    "name": "Protein Oats: Chocolate & Almond Flavour",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 401,
+      "carbs": 34.7,
+      "fats": 17.8,
+      "protein": 22.7,
+      "size": 89,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK010",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_OATS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6102ecb566f2bf71b640a4c7",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "OATS: Raspberry Cranberry & Coconut Flavour"
+      }
+    ],
+    "barcode": "9353333003363",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk011.jpg"
+        }
+      ],
+      "id": "48124660",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk011.jpg"
+      }
+    },
+    "grossPrice": 3.5,
+    "hasSubProducts": false,
+    "liveAt": "2021-07-29T18:00:21.120Z",
+    "name": "Protein Oats: Raspberry, Cranberry & Coconut Flavour",
+    "netPrice": 3.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 392,
+      "carbs": 42.4,
+      "fats": 13.6,
+      "protein": 21.9,
+      "size": 93,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK011",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_OATS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6115705b7c74d34a29718d1f",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 6 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Tikka"
+      }
+    ],
+    "barcode": "9353333003431",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch048.jpg"
+        }
+      ],
+      "id": "48124690",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch048.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-08-12T19:02:51.073Z",
+    "name": "Chicken Tikka with Chickpea Dahl",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 391,
+      "carbs": 14,
+      "fats": 15.4,
+      "protein": 46.5,
+      "size": 330,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH048",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6115705b7c74d34a29718d21",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 6 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Tortellini"
+      }
+    ],
+    "barcode": "9353333003455",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch049.jpg"
+        }
+      ],
+      "id": "48124685",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch049.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-08-12T19:02:51.074Z",
+    "name": "Chicken Tortellini Boscaiola with Beef Rashers",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 560,
+      "carbs": 46.6,
+      "fats": 24.6,
+      "protein": 35.3,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH049",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6115705b7c74d34a29718d23",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 8 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Moroccan Hoki"
+      }
+    ],
+    "barcode": "9353333003479",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-sf014.jpg"
+        }
+      ],
+      "id": "48124705",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-sf014.jpg"
+      }
+    },
+    "grossPrice": 11.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-08-12T19:02:51.075Z",
+    "name": "Moroccan Hoki with Kale Potato Salad",
+    "netPrice": 11.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 368,
+      "carbs": 27.3,
+      "fats": 12,
+      "protein": 34.9,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SF014",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "5f984a618b0faa1f9e138029",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 5 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken & Cauliflower Bake"
+      }
+    ],
+    "barcode": "9353333000164",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452455-ch040_p.jpg"
+        },
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452453-ch040.jpg"
+        }
+      ],
+      "id": "48124694",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452453-ch040.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2020-10-27T16:27:13.604Z",
+    "name": "Chicken & Cauliflower Bake",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 449,
+      "carbs": 15.4,
+      "fats": 21.2,
+      "protein": 46.3,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH040",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6046b8c96ecab45f5f7be529",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002793",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452539-sn025.jpg"
+        }
+      ],
+      "id": "48124704",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452539-sn025.jpg"
+      }
+    },
+    "grossPrice": 3.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-03-08T23:52:41.886Z",
+    "name": "Low Carb Bar: Choc Berry Crunch",
+    "netPrice": 3.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 229,
+      "carbs": 7,
+      "fats": 13.9,
+      "protein": 10.4,
+      "size": 50,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN025",
+    "status": "ACTIVE",
+    "subCategory": ["LOW_CARB_BARS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6115705b7c74d34a29718d20",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 5 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Parmigiana"
+      }
+    ],
+    "barcode": "9353333003448",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452445-ch047.jpg"
+        }
+      ],
+      "id": "48124672",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452445-ch047.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-08-12T19:02:51.074Z",
+    "name": "Chicken Parmigiana with Pumpkin Mash and Vegetables",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 354,
+      "carbs": 33.1,
+      "fats": 7.4,
+      "protein": 35.1,
+      "size": 320,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH047",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6046b8c96ecab45f5f7be528",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333002786",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn024.jpg"
+        }
+      ],
+      "id": "48124730",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn024.jpg"
+      }
+    },
+    "grossPrice": 3.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-03-08T23:52:41.886Z",
+    "name": "Low Carb Bar: Honeycomb",
+    "netPrice": 3.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 217,
+      "carbs": 4.8,
+      "fats": 11.3,
+      "protein": 11.5,
+      "size": 50,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SN024",
+    "status": "ACTIVE",
+    "subCategory": ["LOW_CARB_BARS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6170fd9564fbb51883238473",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 9 R"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Jamaican Jerk Chicken"
+      }
+    ],
+    "barcode": "9353333003561",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452452-ch052.jpg"
+        }
+      ],
+      "id": "48124691",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452452-ch052.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2021-10-21T05:41:41.927Z",
+    "name": "Jamaican Jerk Chicken With Basmati Rice, Black Beans & Pineapple Salsa",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 435,
+      "carbs": 44.2,
+      "fats": 9.2,
+      "protein": 42.3,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH052",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e5",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003677",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr007.jpg"
+        }
+      ],
+      "id": "48124699",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr007.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.438Z",
+    "name": "Plant Based Smoothie: Mixed Berry",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 165,
+      "carbs": 2.7,
+      "fats": 6.4,
+      "protein": 20.2,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR007",
+    "status": "ACTIVE",
+    "subCategory": ["PLANT_BASED_SMOOTHIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62b17bbe29f09100106856dc",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 WALL"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Tomato & Basil Soup"
+      }
+    ],
+    "barcode": "9353333004254",
+    "category": "SOUPS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452537-so005.jpg"
+        }
+      ],
+      "id": "48124703",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452537-so005.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-21T08:05:18.216Z",
+    "name": "Tomato & Basil Soup",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 231,
+      "carbs": 18.4,
+      "fats": 4,
+      "protein": 23.2,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SO005",
+    "status": "ACTIVE",
+    "subCategory": ["SOUPS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62f2979069027d000f19bfbd",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 Wall"
+      }
+    ],
+    "barcode": "9353333004391",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn037.jpg"
+        }
+      ],
+      "id": "48124727",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn037.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-08-09T17:21:20.390Z",
+    "name": "Plant-Based Protein Cookie: Peanut Butter Choc",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 396,
+      "carbs": 42.6,
+      "fats": 18.5,
+      "protein": 20.2,
+      "size": 92,
+      "unit": "g"
+    },
+    "promotionTotal": 4.95,
+    "shelfLifeDays": 14,
+    "sku": "SN037",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_COOKIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad329e",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 2 L"
+      }
+    ],
+    "barcode": "9353333004445",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-ch058.jpg"
+        }
+      ],
+      "id": "48124657",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-ch058.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.551Z",
+    "name": "Sriracha Chilli Chicken Noodle Stir Fry",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 384,
+      "carbs": 51,
+      "fats": 2.7,
+      "protein": 36.2,
+      "size": 345,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH058",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e6",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003684",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-dr008.jpg"
+        }
+      ],
+      "id": "48124706",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-dr008.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.438Z",
+    "name": "Plant Based Smoothie: Banana Super Greens",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 185,
+      "carbs": 5.6,
+      "fats": 6.3,
+      "protein": 20.2,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR008",
+    "status": "ACTIVE",
+    "subCategory": ["PLANT_BASED_SMOOTHIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e8",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333003707",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 1,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.438Z",
+    "name": "Roasted Fava Beans: Salt & Vinegar",
+    "netPrice": 0.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 90,
+      "carbs": 7.9,
+      "fats": 1.8,
+      "protein": 7.3,
+      "size": 25,
+      "unit": "g"
+    },
+    "promotionTotal": 0.5,
+    "shelfLifeDays": 14,
+    "sku": "SN033",
+    "status": "ACTIVE",
+    "subCategory": ["FAVA_BEANS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61fb6c5d8fc82b58d6afe2a6",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      }
+    ],
+    "barcode": "9353333004032",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-ch054.jpg"
+        }
+      ],
+      "id": "48124647",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-ch054.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-02-03T05:47:09.629Z",
+    "name": "Creamy Tomato Chicken Fettuccine",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 594,
+      "carbs": 51.1,
+      "fats": 26.7,
+      "protein": 35.2,
+      "size": 340,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH054",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "628f1131389d8e000f036400",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 10 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Plus Pesto Chicken"
+      }
+    ],
+    "barcode": "9353333004131",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-pch001.jpg"
+        }
+      ],
+      "id": "48124718",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-pch001.jpg"
+      }
+    },
+    "grossPrice": 13.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-05-26T05:33:37.758Z",
+    "name": "Pesto Chicken With Penne Pasta & Green Vegetables LARGE",
+    "netPrice": 13.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 823,
+      "carbs": 56.5,
+      "fats": 39.3,
+      "protein": 53.8,
+      "size": 550,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "PCH001",
+    "status": "ACTIVE",
+    "subCategory": ["PLUS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62f2979069027d000f19bfbc",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 Wall"
+      }
+    ],
+    "barcode": "9353333004384",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452542-sn036.jpg"
+        }
+      ],
+      "id": "48124728",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452542-sn036.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-08-09T17:21:20.390Z",
+    "name": "Plant-Based Protein Cookie: Coconut Macadamia",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 396,
+      "carbs": 42.8,
+      "fats": 18.7,
+      "protein": 20.2,
+      "size": 92,
+      "unit": "g"
+    },
+    "promotionTotal": 4.95,
+    "shelfLifeDays": 14,
+    "sku": "SN036",
+    "status": "ACTIVE",
+    "subCategory": ["PROTEIN_COOKIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad329d",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      }
+    ],
+    "barcode": "9353333004452",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452540-ch059.jpg"
+        }
+      ],
+      "id": "48124721",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452540-ch059.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.547Z",
+    "name": "Crumbed Chicken With Roasted Vegetables & Lemon Herb Sauce",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 486,
+      "carbs": 41.3,
+      "fats": 16.9,
+      "protein": 39.6,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "CH059",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2d7",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452630-wl002.jpg"
+        }
+      ],
+      "id": "48124767",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452630-wl002.jpg"
+      }
+    },
+    "grossPrice": 2,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.435Z",
+    "name": "2 x Peppermint Creams",
+    "netPrice": 2,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 119,
+      "carbs": 14.8,
+      "fats": 5.8,
+      "protein": 1,
+      "size": 25,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL002",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2d8",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452632-wl003.jpg"
+        }
+      ],
+      "id": "48124772",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452632-wl003.jpg"
+      }
+    },
+    "grossPrice": 0.7,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.436Z",
+    "name": "Apple",
+    "netPrice": 0.7,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 98,
+      "carbs": 20.5,
+      "fats": 0.5,
+      "protein": 0.5,
+      "size": 164,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL003",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2dd",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-wl008.jpg"
+        }
+      ],
+      "id": "48124756",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-wl008.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.436Z",
+    "name": "2 x Peppermint Creams + Protein Shake: Vanilla & Cinnamon Flavoured",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 290,
+      "carbs": 24.4,
+      "fats": 6.9,
+      "protein": 31,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL008",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e9",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "9353333003714",
+    "category": "SNACKS",
+    "cms": null,
+    "grossPrice": 1,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.438Z",
+    "name": "Roasted Fava Beans: Lightly Salted",
+    "netPrice": 0.5,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 96,
+      "carbs": 10.5,
+      "fats": 2.1,
+      "protein": 6.8,
+      "size": 25,
+      "unit": "g"
+    },
+    "promotionTotal": 0.5,
+    "shelfLifeDays": 14,
+    "sku": "SN034",
+    "status": "ACTIVE",
+    "subCategory": ["FAVA_BEANS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "623943187553ac1888a40ecf",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Oat Slice: Chocolate & Almond (90g)"
+      }
+    ],
+    "barcode": "9353333003813",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk017.jpg"
+        }
+      ],
+      "id": "48124654",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk017.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-03-22T03:31:36.393Z",
+    "name": "Oat Slice: Chocolate & Almond",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 353,
+      "carbs": 29,
+      "fats": 15.8,
+      "protein": 20.2,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK017",
+    "status": "ACTIVE",
+    "subCategory": ["OAT_SLICES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "62b17bbe29f09100106856da",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 WALL"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Chicken Minestrone Soup"
+      }
+    ],
+    "barcode": "9353333004223",
+    "category": "SOUPS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452543-so003.jpg"
+        }
+      ],
+      "id": "48124735",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452543-so003.jpg"
+      }
+    },
+    "grossPrice": 6.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-06-21T08:05:18.215Z",
+    "name": "Chicken Minestrone Soup",
+    "netPrice": 6.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 256,
+      "carbs": 20.8,
+      "fats": 6.4,
+      "protein": 25,
+      "size": 400,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "SO003",
+    "status": "ACTIVE",
+    "subCategory": ["SOUPS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "6335eb41b50d870011ad329f",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 7 R"
+      }
+    ],
+    "barcode": "9353333004469",
+    "category": "MEALS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452447-be035.jpg"
+        }
+      ],
+      "id": "48124674",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452447-be035.jpg"
+      }
+    },
+    "grossPrice": 10.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-09-29T19:00:17.551Z",
+    "name": "Mexican Beef With Spiced Roasted Potatoes & Jalapeño Relish",
+    "netPrice": 10.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 330,
+      "carbs": 27.3,
+      "fats": 8.8,
+      "protein": 32.9,
+      "size": 300,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BE035",
+    "status": "ACTIVE",
+    "subCategory": ["REGULAR_MEALS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2da",
+    "attributes": [],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452629-wl005.jpg"
+        }
+      ],
+      "id": "48124761",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452629-wl005.jpg"
+      }
+    },
+    "grossPrice": 2.7,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.436Z",
+    "name": "Kiwi Fruit + 2 x Peppermint Creams",
+    "netPrice": 2.7,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 164,
+      "carbs": 23.5,
+      "fats": 6.2,
+      "protein": 1.9,
+      "size": 103,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL005",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e0",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11B Wall"
+      }
+    ],
+    "barcode": "n/a",
+    "category": "SNACKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452630-wl011.jpg"
+        }
+      ],
+      "id": "48124747",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452630-wl011.jpg"
+      }
+    },
+    "grossPrice": 3.65,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.437Z",
+    "name": "Kiwi Fruit + Protein Bite: Hazelnut Crisp",
+    "netPrice": 3.65,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 179,
+      "carbs": 17.2,
+      "fats": 6,
+      "protein": 7.5,
+      "size": 115,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "WL011",
+    "status": "ACTIVE",
+    "subCategory": ["WLP_SNACKS"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "61dfd39fc1b09b5d5494d2e7",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11A Wall"
+      }
+    ],
+    "barcode": "9353333003691",
+    "category": "DRINKS",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452538-dr009.jpg"
+        }
+      ],
+      "id": "48124700",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452538-dr009.jpg"
+      }
+    },
+    "grossPrice": 5.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-01-13T07:24:15.438Z",
+    "name": "Plant Based Smoothie: Choc Hazelnut Flavoured",
+    "netPrice": 5.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 195,
+      "carbs": 2.4,
+      "fats": 8.5,
+      "protein": 20.2,
+      "size": 375,
+      "unit": "ml"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "DR009",
+    "status": "ACTIVE",
+    "subCategory": ["PLANT_BASED_SMOOTHIES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "623943187553ac1888a40ecd",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Oat Slice: Apple & Cinnamon (90g)"
+      }
+    ],
+    "barcode": "9353333003790",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667445729-test.jpeg"
+        }
+      ],
+      "id": "48124646",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667445729-test.jpeg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-03-22T03:31:36.392Z",
+    "name": "Oat Slice: Apple & Cinnamon",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 351,
+      "carbs": 31.4,
+      "fats": 14.3,
+      "protein": 20.2,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK015",
+    "status": "ACTIVE",
+    "subCategory": ["OAT_SLICES"],
+    "subProducts": []
+  },
+  {
+    "__typename": "Product",
+    "_id": "623943187553ac1888a40ece",
+    "attributes": [
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingBay",
+        "value": "Bay 11 L"
+      },
+      {
+        "__typename": "ProductAttribute",
+        "name": "pickingName",
+        "value": "Oat Slice: Maple Syrup & Almond Butter (90g)"
+      }
+    ],
+    "barcode": "9353333003806",
+    "category": "BREKKIE",
+    "cms": {
+      "__typename": "ProductRecord",
+      "displayPageImages": [
+        {
+          "__typename": "FileField",
+          "url": "https://www.datocms-assets.com/81001/1667452446-bk016.jpg"
+        }
+      ],
+      "id": "48124652",
+      "tileImage": {
+        "__typename": "FileField",
+        "url": "https://www.datocms-assets.com/81001/1667452446-bk016.jpg"
+      }
+    },
+    "grossPrice": 4.95,
+    "hasSubProducts": false,
+    "liveAt": "2022-03-22T03:31:36.393Z",
+    "name": "Oat Slice: Maple Syrup & Almond Butter",
+    "netPrice": 4.95,
+    "nutritionalInfo": {
+      "__typename": "NutritionalInfo",
+      "calories": 353,
+      "carbs": 31.7,
+      "fats": 14.5,
+      "protein": 20.2,
+      "size": 90,
+      "unit": "g"
+    },
+    "promotionTotal": 0,
+    "shelfLifeDays": 14,
+    "sku": "BK016",
+    "status": "ACTIVE",
+    "subCategory": ["OAT_SLICES"],
+    "subProducts": []
+  }
+]

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "downloadApp": {
+      "text": "Download Our App"
+    },
+    "footer": {
+      "addressInfo": "ABN 92 162 190 070\nPO BOX 197\nFAIRFIELD NSW 1860\n1300 364 993",
+      "brandLogo": {
+        "url": "https://www.datocms-assets.com/81001/1666837322-01_mymc_blk.svg",
+        "alt": "MYMC LOGO"
+      },
+      "paymentIcons": [
+        {
+          "url": "https://www.datocms-assets.com/81001/1666842954-paypal.svg",
+          "alt": "Paypal"
+        },
+        {
+          "url": "https://www.datocms-assets.com/81001/1666842985-visa.svg",
+          "alt": "Visa"
+        },
+        {
+          "url": "https://www.datocms-assets.com/81001/1666842976-mastercard.svg",
+          "alt": "Mastercard"
+        },
+        {
+          "url": "https://www.datocms-assets.com/81001/1666842989-american-express.svg",
+          "alt": "American Express"
+        },
+        {
+          "url": "https://www.datocms-assets.com/81001/1666842993-zippay.svg",
+          "alt": "Zip pay"
+        },
+        {
+          "url": "https://www.datocms-assets.com/81001/1666842970-group_221.svg",
+          "alt": "Lock Icon"
+        }
+      ],
+      "footerSections": [
+        {
+          "footerSection": [
+            {
+              "id": "42636767",
+              "sectionLinks": [
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Salads",
+                  "externalLink": "",
+                  "internalLink": "/salads",
+                  "text": "Salads"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Breakfast",
+                  "externalLink": "",
+                  "internalLink": "/breakfast",
+                  "text": "Breakfast"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Oat Slices",
+                  "externalLink": "",
+                  "internalLink": "/oat-slices",
+                  "text": "Oat Slices"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Plant Based Smoothies",
+                  "externalLink": "",
+                  "internalLink": "/plant-based-smoothies",
+                  "text": "Plant Based Smoothies"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Protein Muffins",
+                  "externalLink": "",
+                  "internalLink": "/protein-muffins",
+                  "text": "Protein Muffins"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Protein Cookies",
+                  "externalLink": "",
+                  "internalLink": "/protein-cookies",
+                  "text": "Protein Cookies"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Protein Bites",
+                  "externalLink": "",
+                  "internalLink": "/protein-bites",
+                  "text": "Protein Bites"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Low Carb Bars",
+                  "externalLink": "",
+                  "internalLink": "/low-carb-bars",
+                  "text": "Low Carb Bars"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Protein Shakes",
+                  "externalLink": "",
+                  "internalLink": "/protein-shakes",
+                  "text": "Protein Shakes"
+                }
+              ],
+              "sectionName": "OUR RANGE",
+              "additionalLinks": [
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Vegan",
+                  "externalLink": "",
+                  "internalLink": "/vegan",
+                  "text": "Vegan"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Keto Friendly",
+                  "externalLink": "",
+                  "internalLink": "/keto-friendly",
+                  "text": "Keto Friendly"
+                },
+                {
+                  "id": "42636764",
+                  "accessibilityText": "Low Calorie",
+                  "externalLink": "",
+                  "internalLink": "/low-calorie",
+                  "text": "Low Calorie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "footerSection": [
+            {
+              "id": "42636759",
+              "sectionLinks": [
+                {
+                  "id": "42636762",
+                  "accessibilityText": "Home",
+                  "externalLink": "",
+                  "internalLink": "/",
+                  "text": "Home"
+                },
+                {
+                  "id": "42636763",
+                  "accessibilityText": "About",
+                  "externalLink": "",
+                  "internalLink": "/about",
+                  "text": "About"
+                },
+                {
+                  "id": "42636765",
+                  "accessibilityText": "Our Plans",
+                  "externalLink": "",
+                  "internalLink": "/our-plans",
+                  "text": "Our Plans"
+                },
+                {
+                  "id": "42636766",
+                  "accessibilityText": "Sustainability",
+                  "externalLink": "",
+                  "internalLink": "/sustainability",
+                  "text": "Sustainability"
+                },
+                {
+                  "id": "42636767",
+                  "accessibilityText": "Blog",
+                  "externalLink": "",
+                  "internalLink": "/blog",
+                  "text": "Blog"
+                },
+                {
+                  "id": "42636768",
+                  "accessibilityText": "Glossary",
+                  "externalLink": "",
+                  "internalLink": "/glossary",
+                  "text": "Glossary"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Zippay",
+                  "externalLink": "",
+                  "internalLink": "/zippay",
+                  "text": "Zippay"
+                },
+                {
+                  "id": "42636770",
+                  "accessibilityText": "Gift Card",
+                  "externalLink": "",
+                  "internalLink": "/gift-card",
+                  "text": "Gift Card"
+                },
+                {
+                  "id": "42636771",
+                  "accessibilityText": "Careers",
+                  "externalLink": "",
+                  "internalLink": "/careers",
+                  "text": "Careers"
+                }
+              ],
+              "sectionName": "ABOUT "
+            }
+          ]
+        },
+        {
+          "footerSection": [
+            {
+              "id": "42636770",
+              "sectionLinks": [
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Contact Us",
+                  "externalLink": "",
+                  "internalLink": "/contact",
+                  "text": "Contact Us"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "FAQs",
+                  "externalLink": "",
+                  "internalLink": "/fAQs",
+                  "text": "FAQs"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Delivery",
+                  "externalLink": "",
+                  "internalLink": "/delivery",
+                  "text": "Delivery"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Stockists",
+                  "externalLink": "",
+                  "internalLink": "/stockists",
+                  "text": "Stockists"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Disclaimers",
+                  "externalLink": "",
+                  "internalLink": "/disclaimer",
+                  "text": "Disclaimer"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Privacy",
+                  "externalLink": "",
+                  "internalLink": "/privacy",
+                  "text": "Privacy"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Terms",
+                  "externalLink": "",
+                  "internalLink": "/terms",
+                  "text": "Terms"
+                },
+                {
+                  "id": "42636769",
+                  "accessibilityText": "Returns",
+                  "externalLink": "",
+                  "internalLink": "/returns",
+                  "text": "Returns"
+                }
+              ],
+              "sectionName": "SUPPORT"
+            }
+          ]
+        },
+        {
+          "footerSection": [
+            {
+              "id": "42637416",
+              "sectionLinks": [
+                {
+                  "id": "42637415",
+                  "accessibilityText": "Retail",
+                  "externalLink": "https://www.mymusclechefretail.com/",
+                  "internalLink": "",
+                  "text": "Retail"
+                },
+                {
+                  "id": "42637415",
+                  "accessibilityText": "Share Your Journey",
+                  "externalLink": " /",
+                  "internalLink": "",
+                  "text": "Share Your Journey"
+                }
+              ],
+              "sectionName": "OTHER SITES"
+            },
+            {
+              "id": "42637417",
+              "text": "Mon - Fri, 9am - 6pm\nSat - Sun, 9am - 5pm\n1300 364 993",
+              "sectionName": "CONTACT US"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

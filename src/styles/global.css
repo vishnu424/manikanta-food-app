@@ -1,0 +1,187 @@
+@import "./cart.css";
+@import "./progress-bar.css";
+@import "./slide-pane.css";
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-rhubarb: #3e0719;
+  --nav-background: var(--color-rhubarb);
+  --footer-background: #f5f6f9;
+  --model-background: #fff5f2;
+}
+
+.navigation-rhubarb {
+  background: var(--color-rhubarb);
+}
+.navigation-color-rhubarb {
+  color: var(--color-rhubarb) !important;
+}
+.footer-background {
+  background: var(--footer-background);
+}
+.slide-background {
+  background: var(--model-background);
+}
+
+@font-face {
+  font-family: "Jeko";
+  src: url("/assets/fonts/Jeko.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Jeko Medium";
+  src: url("/assets/fonts/Jeko.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Jeko Semibold";
+  src: url("/assets/fonts/Jeko.ttf");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Jeko-Bold";
+  src: url("/assets/fonts/Jeko.ttf");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Jeko Extrabold";
+  src: url("/assets/fonts/Jeko.ttf");
+  font-style: normal;
+  font-weight: 800;
+}
+
+body {
+  @apply text-base font-medium font-jeko leading-[22px];
+}
+
+h1 {
+  @apply text-5xl md:text-7xl lg:text-8xl font-jekoBold leading-10 md:leading-[50px] lg:leading-[58px];
+}
+
+h2 {
+  @apply text-xl md:text-3xl lg:text-6xl font-jeko leading-[27px] md:leading-[30px] lg:leading-[34px];
+}
+
+h3 {
+  @apply text-lg md:text-2xl lg:text-4xl font-jekoBold leading-6 md:leading-[30px] lg:leading-9;
+}
+
+.product-detail-page .swiper-pagination-bullet {
+  @apply bg-black opacity-25;
+}
+
+.product-detail-page .swiper-pagination-bullet-active {
+  @apply bg-black opacity-100;
+}
+
+@media screen and (max-width: 700px) {
+  .swiper-pagination {
+    position: static !important;
+  }
+}
+
+.border-red-600 .border-b-2:hover {
+  border-bottom: 3px solid #d8173c;
+}
+
+.contact-nav-list li a {
+  color: #707274;
+  font-size: 14px;
+  font-weight: 600;
+  transition: all 100ms ease-in;
+}
+
+.contact-nav-list li a:hover {
+  color: #d8173c;
+  text-decoration: underline;
+}
+
+.nav-links:hover {
+  --tw-border-opacity: 1;
+  border-bottom: 3px solid rgb(220 38 38 / 1);
+}
+.contact-slide {
+  top: 70px;
+  margin: 0px;
+  background: var(--model-background);
+  transform-origin: center top;
+  transition: all 200ms ease-in 0s;
+  transform: scaleY(0);
+}
+
+.user-slide {
+  top: 70px;
+  margin: 0px;
+  background: var(--model-background);
+  transform-origin: center top;
+  transition: all 200ms ease-in 0s;
+  transform: scaleY(0);
+}
+
+.user-account:hover .user-slide {
+  transform: scaleY(1);
+}
+
+.nav-links:hover .contact-slide {
+  transform: scaleY(1);
+}
+
+.contact-container h2 {
+  font-weight: 600;
+}
+
+.invert-color {
+  filter: invert(100%);
+}
+
+/* width */
+.custom-scroll::-webkit-scrollbar {
+  background: #dedede;
+  border-radius: 88px;
+  width: 4px;
+}
+
+/* Handle */
+.custom-scroll::-webkit-scrollbar-thumb {
+  background: #848484;
+  border-radius: 88px;
+}
+
+/* Handle on hover */
+.custom-scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.ReactModalPortal .ReactModal__Overlay {
+  z-index: 100;
+}
+
+.bg-gray16 {
+  --bg-opacity: 1 !important;
+  background-color: rgba(238, 238, 238) !important;
+}
+
+.text-orange3 {
+  --text-opacity: 1 !important;
+}
+
+.text-orange3 {
+  color: #ff9635 !important;
+  color: rgba(255, 150, 53, var(--text-opacity)) !important;
+}
+
+.no-highlights {
+  -webkit-tap-highlight-color: transparent;
+}

@@ -1,0 +1,24 @@
+/* Styles added for Cart slide pane */
+
+.slide-pane__header {
+  background: #fff !important;
+}
+.slide-pane__content {
+  padding: 0 !important;
+}
+.slide-pane__close,
+.slide-pane__title-wrapper {
+  margin-left: 0 !important;
+}
+.slide-pane__title {
+  max-width: 100% !important;
+  line-height: unset;
+}
+
+.ReactModal__Body--open {
+  overflow: hidden;
+}
+
+.slide-pane__overlay {
+  @apply max-w-screen-2xl mx-auto;
+}

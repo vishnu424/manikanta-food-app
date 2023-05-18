@@ -1,0 +1,21 @@
+.slide-pane__close {
+  border-right: 1px #bebebe solid;
+  padding: 0px 8px !important;
+  margin-right: 1rem;
+}
+.slide-pane__close svg {
+  width: 24px !important;
+}
+.slide-pane_from_bottom.content-after-open {
+  border-radius: 1rem 1rem 0 0;
+}
+.referralSlidingPane{
+  height: 94vh !important;
+  margin-top: 7.5vh !important;
+}
+.slide-pane__overlay{
+  z-index: 55;
+}
+.upcomingDeliverySlidingPane{
+  margin-top: 15vh !important;
+}

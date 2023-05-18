@@ -1,0 +1,27 @@
+{
+  "discount": 10,
+  "subTotal": 120,
+  "total": 129,
+  "items": [
+    {
+      "sku": "CH001",
+      "name": "Chicken",
+      "qty": 2
+    },
+    {
+      "sku": "CH002",
+      "name": "Chicken",
+      "qty": 3
+    },
+    {
+      "sku": "CH001",
+      "name": "Chicken",
+      "qty": 2
+    },
+    {
+      "sku": "CH002",
+      "name": "Chicken",
+      "qty": 3
+    }
+  ]
+}

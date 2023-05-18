@@ -1,0 +1,431 @@
+{
+  "products": [
+    {
+      "_id": "60917fe09152883669e4a10c",
+      "name": "Chia Crusted Salmon with Soy Glaze, Broccolini & Rice",
+      "displayCategory": "MEALS",
+      "displaySubCategory": ["REGULAR_MEALS"],
+      "sku": "SF013",
+      "status": "ACTIVE",
+      "barcode": "9353333001765",
+      "netPrice": 12.95,
+      "grossPrice": 12.95,
+      "promotionTotal": 0,
+      "hasSubProducts": false,
+      "subProducts": [],
+      "liveAt": "2021-05-04T17:09:52.970Z",
+      "shelfLifeDays": 14,
+      "attributes": [
+        {
+          "name": "pickingBay",
+          "value": "Bay 7 R"
+        },
+        {
+          "name": "pickingName",
+          "value": "Chia Crusted Salmon"
+        },
+        {
+          "name": "marketingTags",
+          "value": [
+            {
+              "id": "40839502",
+              "text": "Dietitian's Pick"
+            },
+            {
+              "id": "40839504",
+              "text": "Low Sugar"
+            },
+            {
+              "id": "40839503",
+              "text": "High Fibre"
+            },
+            {
+              "id": "52254740",
+              "text": "Asian"
+            }
+          ]
+        }
+      ],
+      "cms": {
+        "id": "48124716",
+        "tileImage": {
+          "url": "https://www.datocms-assets.com/81001/1667452538-sf013.jpg"
+        },
+        "displayPageImages": [
+          {
+            "url": "https://www.datocms-assets.com/81001/1667452538-sf013.jpg"
+          }
+        ],
+        "productInstruction": {
+          "instructions": [
+            {
+              "title": "Storage:",
+              "text": "Keep refrigerated, store at 5°C or below. Use on day of opening. Freeze with use by date. Once frozen, consume within 1 month. Cook from frozen or defrost in refrigerator and use with 24 hours. Do not refreeze."
+            },
+            {
+              "title": "Heating from fresh:",
+              "text": "1. Heat in microwave for 2 minutes on high. Plastic film will expand during heating, this is normal.\n2. Let meal stand for 1 minute, remove film.\n3. Ensure meal is heated through, stir well and enjoy."
+            },
+            {
+              "title": "Heating from frozen:",
+              "text": "1. Heat in microwave for 3-4 minutes on high. Plastic film will expand during heating, this is normal.\n2. Remove film, stir contents for even heat distribution.\n3. Cover loosely and reheat longer if required."
+            }
+          ]
+        },
+        "description": {
+          "blocks": [],
+          "links": [],
+          "value": {
+            "schema": "dast",
+            "document": {
+              "type": "root",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "span",
+                      "value": "A chia and sesame crust make this salmon fillet a textural wonderland on top of its already great flavour. Asian greens and brown rice make this a truly nourishing dish, but taste isn't spared, with a delectable soy glaze topping it all off."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "dietaryTags": [
+          {
+            "text": "No Added Eggs",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666324054-mexican.svg"
+            }
+          },
+          {
+            "text": "No Added Dairy",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "text": "Dietitian's Pick",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          },
+          {
+            "text": "Low Sugar",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          },
+          {
+            "text": "High Fibre",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          },
+          {
+            "text": "Asian",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323561-top-picks.svg"
+            }
+          }
+        ],
+        "primaryDisplayTag": null,
+        "secondaryDisplayTag": null,
+        "displaySubcategory": [
+          {
+            "key": "regular-meals",
+            "name": "Regular Meals"
+          }
+        ]
+      },
+      "nutritionalInfo": {
+        "size": 330,
+        "unit": "g",
+        "calories": 536,
+        "carbs": 34.4,
+        "fats": 26.3,
+        "protein": 36.9,
+        "ingredients": "Salmon Fillet (38%) (contains Fish (Salmon)), Brown Rice (18%), Green Beans (18%), Bok Choy (9%), Broccolini (9%), Sweet Soy Sauce (3%) (contains Soy, Gluten (Wheat)), Soy Sauce (2%) (contains Soy, Gluten (Wheat)), Chia Seeds (0.5%), Pickled Ginger (0.5%), Sesame Seeds (0.5%), Cornflour (0.5%), Pepper (0.5%), Sesame Oil (<1%) (contains Sesame Seeds).",
+        "allergens": "Fish (Salmon), Soy, Gluten (Wheat), Sesame Seeds.",
+        "panelInfo": [
+          {
+            "display": true,
+            "name": "Energy",
+            "per100": 679,
+            "perServing": 2240,
+            "unit": "kJ"
+          },
+          {
+            "display": true,
+            "name": "Calories",
+            "per100": 162,
+            "perServing": 536,
+            "unit": "Cal"
+          },
+          {
+            "display": true,
+            "name": "Protein",
+            "per100": 11.2,
+            "perServing": 36.9,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Fat, Total",
+            "per100": 8,
+            "perServing": 26.3,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Carbohydrates",
+            "per100": 10.4,
+            "perServing": 34.4,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Dietary Fibre",
+            "per100": 1.8,
+            "perServing": 5.9,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Sodium",
+            "per100": 271,
+            "perServing": 895,
+            "unit": "mg"
+          }
+        ]
+      }
+    },
+    {
+      "_id": "5bf56d61313e1e66d1826d43",
+      "name": "Beef Stroganoff With Spinach Fettuccine",
+      "displayCategory": "MEALS",
+      "displaySubCategory": ["REGULAR_MEALS"],
+      "sku": "BE009",
+      "status": "ACTIVE",
+      "barcode": "9353333004353",
+      "netPrice": 10.95,
+      "grossPrice": 10.95,
+      "promotionTotal": 0,
+      "hasSubProducts": false,
+      "subProducts": [],
+      "liveAt": "2018-10-01T21:09:38.722Z",
+      "shelfLifeDays": 14,
+      "attributes": [
+        {
+          "name": "pickingBay",
+          "value": "Bay 2 L"
+        },
+        {
+          "name": "pickingName",
+          "value": "Beef Stroganoff"
+        },
+        {
+          "name": "marketingTags",
+          "value": [
+            {
+              "id": "40839502",
+              "text": "Dietitian's Pick"
+            },
+            {
+              "id": "40839501",
+              "text": "Muscle Building"
+            },
+            {
+              "id": "40839504",
+              "text": "Low Sugar"
+            },
+            {
+              "id": "40839496",
+              "text": "Top Pick"
+            },
+            {
+              "id": "52250936",
+              "text": "Italian"
+            }
+          ]
+        }
+      ],
+      "cms": {
+        "id": "48124655",
+        "tileImage": {
+          "url": "https://www.datocms-assets.com/81001/1667452446-be009.jpg"
+        },
+        "displayPageImages": [
+          {
+            "url": "https://www.datocms-assets.com/81001/1667452446-be009_p.jpg"
+          },
+          {
+            "url": "https://www.datocms-assets.com/81001/1667452446-be009.jpg"
+          }
+        ],
+        "productInstruction": {
+          "instructions": [
+            {
+              "title": "Storage:",
+              "text": "Keep refrigerated, store at 5°C or below. Use on day of opening. Freeze with use by date. Once frozen, consume within 1 month. Cook from frozen or defrost in refrigerator and use with 24 hours. Do not refreeze."
+            },
+            {
+              "title": "Heating from fresh:",
+              "text": "1. Heat in microwave for 2 minutes on high. Plastic film will expand during heating, this is normal.\n2. Let meal stand for 1 minute, remove film.\n3. Ensure meal is heated through, stir well and enjoy."
+            },
+            {
+              "title": "Heating from frozen:",
+              "text": "1. Heat in microwave for 3-4 minutes on high. Plastic film will expand during heating, this is normal.\n2. Remove film, stir contents for even heat distribution.\n3. Cover loosely and reheat longer if required."
+            }
+          ]
+        },
+        "description": {
+          "blocks": [],
+          "links": [],
+          "value": {
+            "schema": "dast",
+            "document": {
+              "type": "root",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "children": [
+                    {
+                      "type": "span",
+                      "value": "A classic family favourite using tender beef strips mixed with stroganoff sauce, tossed with mushroom, green pasta and broccoli.\n"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        "dietaryTags": [
+          {
+            "text": "No Added Eggs",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666324054-mexican.svg"
+            }
+          },
+          {
+            "text": "No Added Seafood",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          },
+          {
+            "text": "No Added Nuts",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666324054-mexican.svg"
+            }
+          }
+        ],
+        "tags": [
+          {
+            "text": "Dietitian's Pick",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          },
+          {
+            "text": "Muscle Building",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666324022-muscle.svg"
+            }
+          },
+          {
+            "text": "Low Sugar",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          },
+          {
+            "text": "Top Pick",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323561-top-picks.svg"
+            }
+          },
+          {
+            "text": "Italian",
+            "icon": {
+              "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+            }
+          }
+        ],
+        "primaryDisplayTag": null,
+        "secondaryDisplayTag": null,
+        "displaySubcategory": [
+          {
+            "key": "regular-meals",
+            "name": "Regular Meals"
+          }
+        ]
+      },
+      "nutritionalInfo": {
+        "size": 330,
+        "unit": "g",
+        "calories": 487,
+        "carbs": 30.9,
+        "fats": 11.9,
+        "protein": 61.6,
+        "ingredients": "Beef Strips (40%), Fettuccine (32%) (Wheat Semolina, Durum Wheat Flour, Niacin (Vitamin B3), Ferrous Sulphate (Iron), Thiamine Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid), Vegetables (18%) (Spinach (5%), Onion (5%), Mushroom (4%), Gherkin (contains Sulphites), Tomato Paste, Garlic), Sour Cream (8%) (contains Milk), Dijon Mustard, Olive Oil, Beef Stock Powder (contains Soy, Milk, Sesame, Wheat) (Flavour Enhancers (621, 635)), Spices, Parsley, Cornflour, Salt.",
+        "allergens": " Gluten (Wheat), Sulphites, Milk, Soy, Sesame. May Contain: Other Cereals Containing Gluten, Crustacea, Fish, Egg, Lupin, Peanut and Tree Nuts.",
+        "panelInfo": [
+          {
+            "display": true,
+            "name": "Energy",
+            "per100": 618,
+            "perServing": 2040,
+            "unit": "kJ"
+          },
+          {
+            "display": true,
+            "name": "Calories",
+            "per100": 148,
+            "perServing": 487,
+            "unit": "Cal"
+          },
+          {
+            "display": true,
+            "name": "Protein",
+            "per100": 18.7,
+            "perServing": 61.6,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Fat, Total",
+            "per100": 3.6,
+            "perServing": 11.9,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Carbohydrates",
+            "per100": 9.4,
+            "perServing": 30.9,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Dietary Fibre",
+            "per100": 0.9,
+            "perServing": 3,
+            "unit": "g"
+          },
+          {
+            "display": true,
+            "name": "Sodium",
+            "per100": 139,
+            "perServing": 458,
+            "unit": "mg"
+          }
+        ]
+      }
+    }
+  ]
+}

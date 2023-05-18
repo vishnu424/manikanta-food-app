@@ -1,0 +1,238 @@
+{
+  "planId": "1.0",
+  "category": "PACKS",
+  "subCategory": "muscle-gain",
+  "name": "Male Muscle Gain (28 Items)",
+  "image": "https://res.cloudinary.com/diqfjkeck/image/upload/c_scale,f_auto,q_auto:best,w_710/v1/mymc-web/staging/goalbased-images/muscle-gain",
+  "netPrice": 265.78,
+  "attributes": [
+    { "name": "gender", "value": "male" },
+    { "name": "numberOfDays", "value": 7 }
+  ],
+  "lineItems": [
+    {
+      "product": "CH054",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 1 }
+      ]
+    },
+    {
+      "product": "BE009",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 1 }
+      ]
+    },
+    {
+      "product": "CH018",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 1 }
+      ]
+    },
+    {
+      "product": "CH003",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 1 }
+      ]
+    },
+    {
+      "product": "BE007",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 2 }
+      ]
+    },
+    {
+      "product": "SF013",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 2 }
+      ]
+    },
+    {
+      "product": "CH010",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 2 }
+      ]
+    },
+    {
+      "product": "CH023",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 2 }
+      ]
+    },
+    {
+      "product": "CH022",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 3 }
+      ]
+    },
+    {
+      "product": "BE033",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 3 }
+      ]
+    },
+    {
+      "product": "BE020",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 3 }
+      ]
+    },
+    {
+      "product": "CH049",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 3 }
+      ]
+    },
+    {
+      "product": "BE009",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 4 }
+      ]
+    },
+    {
+      "product": "CH018",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 4 }
+      ]
+    },
+    {
+      "product": "VN026",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 4 }
+      ]
+    },
+    {
+      "product": "BE004",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 4 }
+      ]
+    },
+    {
+      "product": "BE007",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 5 }
+      ]
+    },
+    {
+      "product": "SF013",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 5 }
+      ]
+    },
+    {
+      "product": "CH003",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 5 }
+      ]
+    },
+    {
+      "product": "CH010",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 5 }
+      ]
+    },
+    {
+      "product": "CH022",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 6 }
+      ]
+    },
+    {
+      "product": "BE020",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 6 }
+      ]
+    },
+    {
+      "product": "CH049",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 6 }
+      ]
+    },
+    {
+      "product": "CH023",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 6 }
+      ]
+    },
+    {
+      "product": "CH018",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 1 },
+        { "name": "day", "value": 7 }
+      ]
+    },
+    {
+      "product": "VN026",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 3 },
+        { "name": "day", "value": 7 }
+      ]
+    },
+    {
+      "product": "BE033",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 5 },
+        { "name": "day", "value": 7 }
+      ]
+    },
+    {
+      "product": "BE004",
+      "qty": 1,
+      "attributes": [
+        { "name": "position", "value": 6 },
+        { "name": "day", "value": 7 }
+      ]
+    }
+  ]
+}

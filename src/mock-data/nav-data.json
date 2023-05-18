@@ -1,0 +1,149 @@
+{
+  "data": {
+    "navbar": {
+      "authLinks": [
+        {
+          "__typename": "AuthLinkRecord",
+          "accessibilityText": "My Account",
+          "relativePathLink": "/account",
+          "dropdown": true,
+          "hideMobile": false,
+          "subLinks": [
+            {
+              "accessibilityText": "My Account",
+              "hideMobile": true,
+              "relativePathLink": "/account",
+              "text": "My Account"
+            }
+          ],
+          "icon": {
+            "url": "https://www.datocms-assets.com/81001/1666835818-account_circle.svg"
+          }
+        },
+        {
+          "__typename": "AuthLinkRecord",
+          "accessibilityText": "Sign In",
+          "relativePathLink": "/signin",
+          "dropdown": false,
+          "hideMobile": false,
+          "subLinks": [],
+          "icon": null
+        },
+        {
+          "__typename": "AuthLinkRecord",
+          "accessibilityText": "Logout",
+          "relativePathLink": "/logout",
+          "isModal": false,
+          "dropdown": false,
+          "hideMobile": false,
+          "subLinks": [],
+          "icon": null
+        }
+      ],
+      "cartIcon": {
+        "url": "https://www.datocms-assets.com/81001/1666833382-shopping_cart.svg"
+      },
+      "logo": {
+        "alt": "logo",
+        "url": "https://www.datocms-assets.com/81001/1666833273-mymc_blk.svg"
+      },
+      "links": [
+        {
+          "relativePathLink": "/menu",
+          "linkType": "Primary",
+          "text": "Full menu",
+          "dropdown": false,
+          "externalUrl": "",
+          "extraInfo": true,
+          "accessibilityText": "Menu",
+          "subLinks": []
+        },
+        {
+          "relativePathLink": "/weight-loss",
+          "linkType": "Primary",
+          "text": "Weight Loss",
+          "dropdown": false,
+          "externalUrl": "",
+          "extraInfo": null,
+          "accessibilityText": "accessibility",
+          "subLinks": []
+        },
+        {
+          "relativePathLink": "/calorie-control",
+          "linkType": "Primary",
+          "text": "Calorie Control",
+          "dropdown": false,
+          "externalUrl": "",
+          "extraInfo": null,
+          "accessibilityText": "Calorie Control",
+          "subLinks": []
+        },
+        {
+          "relativePathLink": "/muscle-gain",
+          "linkType": "Primary",
+          "text": "Muscle Gain",
+          "dropdown": false,
+          "externalUrl": "",
+          "extraInfo": null,
+          "accessibilityText": "Muscle Gain",
+          "subLinks": []
+        },
+        {
+          "relativePathLink": "/about",
+          "linkType": "Primary",
+          "text": "About",
+          "dropdown": false,
+          "externalUrl": "",
+          "extraInfo": null,
+          "accessibilityText": "About",
+          "subLinks": []
+        },
+        {
+          "relativePathLink": "/stockists",
+          "linkType": "Primary",
+          "text": "Stockists",
+          "dropdown": false,
+          "externalUrl": "",
+          "extraInfo": null,
+          "accessibilityText": "Stockists",
+          "subLinks": []
+        },
+        {
+          "relativePathLink": "",
+          "linkType": "",
+          "text": "Contact",
+          "dropdown": true,
+          "externalUrl": "",
+          "extraInfo": false,
+          "accessibilityText": "Contact",
+          "subLinks": [
+            {
+              "accessibilityText": "Delivery Info",
+              "externalUrl": "",
+              "extraInfo": false,
+              "linkType": "",
+              "relativePathLink": "/delivery-info",
+              "text": "Delivery Info"
+            },
+            {
+              "accessibilityText": "FAQs",
+              "externalUrl": "",
+              "extraInfo": false,
+              "linkType": "",
+              "relativePathLink": "/faq",
+              "text": "FAQs"
+            },
+            {
+              "accessibilityText": "Contact Us",
+              "externalUrl": "",
+              "extraInfo": false,
+              "linkType": "",
+              "relativePathLink": "/contact-us",
+              "text": "Contact Us"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

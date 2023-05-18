@@ -1,0 +1,111 @@
+{
+  "_id": "5e549dc737fb2f042c8677bb",
+  "name": "Chipotle Chicken",
+  "category": "MEALS",
+  "subCategory": ["PLUS"],
+  "sku": "PP002",
+  "status": "ACTIVE",
+  "barcode": "9353333001550",
+  "netPrice": 11.95,
+  "grossPrice": 11.95,
+  "promotionTotal": 0,
+  "hasSubProducts": false,
+  "subProducts": [],
+  "liveAt": "2020-02-25T04:08:39.539Z",
+  "shelfLifeDays": 14,
+  "attributes": [
+    {
+      "name": "pickingBay",
+      "value": "Bay 10 L"
+    },
+    {
+      "name": "pickingName",
+      "value": "(PLUS) Chipotle Chicken"
+    }
+  ],
+  "cms": {
+    "id": "48124720",
+    "tileImage": {
+      "url": "https://www.datocms-assets.com/81001/1667452540-pp002.jpg"
+    },
+    "displayPageImages": [
+      {
+        "url": "https://www.datocms-assets.com/81001/1667452538-pp002_p.jpg"
+      },
+      {
+        "url": "https://www.datocms-assets.com/81001/1667452540-pp002.jpg"
+      }
+    ],
+
+    "description": {
+      "blocks": [],
+      "links": [],
+      "value": {
+        "schema": "dast",
+        "document": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "span",
+                  "value": "<p>Add some pep in your step with our taco-seasoned Chipotle Chicken with chipotle mayonnaise.  </p>\n<br>\n<p>Plus+ Protein allows you to add extra protein to your favourite My Muscle Chef meals, designed to give you the flexibility to customise your own meals to meet your specific needs.</p>"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "dietaryTags": [
+      {
+        "text": "No Added Nuts",
+        "icon": {
+          "url": "https://www.datocms-assets.com/81001/1666324054-mexican.svg"
+        }
+      },
+      {
+        "text": "No Added Seafood",
+        "icon": {
+          "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+        }
+      },
+      {
+        "text": "No Added Gluten",
+        "icon": {
+          "url": "https://www.datocms-assets.com/81001/1666323991-plant-based.svg"
+        }
+      }
+    ],
+    "tags": [],
+    "primaryDisplayTag": {
+      "text": "Protein Only",
+      "fontColor": {
+        "hex": "#FFFFFF"
+      },
+      "backgroundColor": {
+        "hex": "#6B3B9B"
+      }
+    },
+    "secondaryDisplayTag": {
+      "text": "2 Serves",
+      "fontColor": {
+        "hex": "#FFFFFF"
+      },
+      "backgroundColor": {
+        "hex": "#848484"
+      }
+    }
+  },
+  "nutritionalInfo": {
+    "size": 400,
+    "unit": "g",
+    "calories": 416,
+    "carbs": 5.1,
+    "fats": 18.8,
+    "protein": 56.5,
+    "ingredients": "Chicken Breast (86%), Mayonnaise (Canola Oil, Whole Egg, Water, White Vinegar, Liquid Sugar, Salt, Mustard, Natural Flavour, Dijon Mustard, Lemon Juice, Spice Extract, Acidity Regulator (Citric Acid), Colour (161b)), Taco Seasoning (contains Soy), Light Sour Cream (contains Milk), Olive Oil, Chipotle Pepper (0.5%), Lemon Juice, Garlic, Cornflour, Salt.         ",
+    "allergens": "Egg, Soy, Milk.\t\t\r\nMay Contain: Cereals Containing Gluten, Crustacea, Fish, Lupin, Peanut, Tree Nuts, Sesame and Sulphites.\t\t\r"
+  }
+}

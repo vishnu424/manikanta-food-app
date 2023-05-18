@@ -1,0 +1,14 @@
+{
+  "gender": ["male", "female"],
+  "ages": ["18-25", "26-39", "40-49", "49+"],
+  "weeklyActivityLevels": [
+    "I don’t really exercise",
+    "I exercise 1-2 days per week",
+    "I exercise 4+ days per week"
+  ],
+  "daysPlan": [
+    { "plan": "5", "price": "10.95" },
+    { "plan": "6", "price": "10.95" },
+    { "plan": "7", "price": "9.95" }
+  ]
+}

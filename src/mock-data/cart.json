@@ -1,0 +1,314 @@
+{
+  "cart": {
+    "plans": [
+      {
+        "planId": "1.0",
+        "category": "packs",
+        "subCategory": "muscle-gain",
+        "name": "Male Muscle Gain (28 Items)",
+        "image": "https://res.cloudinary.com/diqfjkeck/image/upload/c_scale,f_auto,q_auto:best,w_710/v1/mymc-web/staging/goalbased-images/muscle-gain",
+        "netPrice": 265.78,
+        "attributes": [
+          { "name": "gender", "value": "male" },
+          { "name": "numberOfDays", "value": 7 }
+        ],
+        "lineItems": [
+          {
+            "product": "CH054",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 1 }
+            ]
+          },
+          {
+            "product": "BE009",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 1 }
+            ]
+          },
+          {
+            "product": "CH018",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 1 }
+            ]
+          },
+          {
+            "product": "CH003",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 1 }
+            ]
+          },
+          {
+            "product": "BE007",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 2 }
+            ]
+          },
+          {
+            "product": "SF013",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 2 }
+            ]
+          },
+          {
+            "product": "CH010",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 2 }
+            ]
+          },
+          {
+            "product": "CH023",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 2 }
+            ]
+          },
+          {
+            "product": "CH022",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 3 }
+            ]
+          },
+          {
+            "product": "BE033",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 3 }
+            ]
+          },
+          {
+            "product": "BE020",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 3 }
+            ]
+          },
+          {
+            "product": "CH049",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 3 }
+            ]
+          },
+          {
+            "product": "BE009",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 4 }
+            ]
+          },
+          {
+            "product": "CH018",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 4 }
+            ]
+          },
+          {
+            "product": "VN026",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 4 }
+            ]
+          },
+          {
+            "product": "BE004",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 4 }
+            ]
+          },
+          {
+            "product": "BE007",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 5 }
+            ]
+          },
+          {
+            "product": "SF013",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 5 }
+            ]
+          },
+          {
+            "product": "CH003",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 5 }
+            ]
+          },
+          {
+            "product": "CH010",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 5 }
+            ]
+          },
+          {
+            "product": "CH022",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 6 }
+            ]
+          },
+          {
+            "product": "BE020",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 6 }
+            ]
+          },
+          {
+            "product": "CH049",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 6 }
+            ]
+          },
+          {
+            "product": "CH023",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 6 }
+            ]
+          },
+          {
+            "product": "CH018",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 1 },
+              { "name": "day", "value": 7 }
+            ]
+          },
+          {
+            "product": "VN026",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 3 },
+              { "name": "day", "value": 7 }
+            ]
+          },
+          {
+            "product": "BE033",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 5 },
+              { "name": "day", "value": 7 }
+            ]
+          },
+          {
+            "product": "BE004",
+            "qty": 1,
+            "attributes": [
+              { "name": "position", "value": 6 },
+              { "name": "day", "value": 7 }
+            ]
+          }
+        ]
+      },
+      {
+        "planId": "2",
+        "category": "menu",
+        "subCategory": "",
+        "name": "Custom Meal Plan",
+        "image": "https://www.datocms-assets.com/81001/1667452540-pp002.jpg",
+        "netPrice": 44.99,
+        "lineItems": [
+          {
+            "id": "631028357395d10010028382",
+            "type": "menu",
+            "product": { "$oid": "62b0042e23558b1c363254b3" },
+            "planId": "631028357395d10010028381",
+            "name": "Soups Pack",
+            "category": "snacks",
+            "sku": "SB025",
+            "qty": 4,
+            "grossPrice": 34.75,
+            "netPrice": 27.95,
+            "promotionTotal": 6.8,
+            "hasSubProducts": true,
+            "promotions": [
+              {
+                "type": "promotion",
+                "description": "bundle discount",
+                "amount": 6.8
+              }
+            ]
+          },
+          {
+            "id": "631028357395d10010028383",
+            "type": "menu",
+            "product": { "$oid": "62a7d2edf330f00012f8e1c5" },
+            "planId": "631028357395d10010028381",
+            "name": "Chicken & Vegetable Soup",
+            "sku": "SO002",
+            "qty": 1,
+            "grossPrice": 6.95,
+            "netPrice": 6.95,
+            "promotionTotal": 0,
+            "hasSubProducts": false,
+            "promotions": [],
+            "category": "meals"
+          },
+          {
+            "id": "631028357395d10010028383",
+            "type": "menu",
+            "product": { "$oid": "62a7d2edf330f00012f8e1c5" },
+            "planId": "631028357395d10010028381",
+            "name": "Beef lasania",
+            "sku": "SO002",
+            "qty": 1,
+            "grossPrice": 6.95,
+            "netPrice": 6.95,
+            "promotionTotal": 0,
+            "hasSubProducts": false,
+            "promotions": [],
+            "category": "meals"
+          }
+        ]
+      }
+    ],
+    "giftCertificates": [],
+    "frequency": "",
+    "billingAddress": {},
+    "delivery": {},
+    "promotions": {},
+    "source": "",
+    "shippingCostBase": "",
+    "payments": "",
+    "updatedAt": ""
+  }
+}

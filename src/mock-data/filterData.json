@@ -1,0 +1,124 @@
+{
+  "data": {
+    "cms": {
+      "filter": {
+        "key": "website-main",
+        "sections": [
+          {
+            "id": "30949873",
+            "name": "Range",
+            "displayType": "dropdown",
+            "values": [
+              {
+                "id": "30949869",
+                "name": "Meals",
+                "showCount": true,
+                "key": "category",
+                "value": "meals",
+                "icon": null,
+                "subValues": [
+                  {
+                    "id": "30949867",
+                    "name": "Regular",
+                    "showCount": true,
+                    "key": "subCategory",
+                    "value": "meals-regular"
+                  },
+                  {
+                    "id": "30949868",
+                    "name": "Plus",
+                    "showCount": true,
+                    "key": "subCategory",
+                    "value": "meals-plus"
+                  }
+                ]
+              },
+              {
+                "id": "30949872",
+                "name": "Snacks",
+                "showCount": true,
+                "key": "category",
+                "value": "snacks",
+                "icon": null,
+                "subValues": [
+                  {
+                    "id": "30949870",
+                    "name": "Protein Cookies",
+                    "showCount": true,
+                    "key": "subCategory",
+                    "value": "protein-cookies"
+                  },
+                  {
+                    "id": "30949871",
+                    "name": "Protein Muffins",
+                    "showCount": true,
+                    "key": "subCategory",
+                    "value": "protein-muffins"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30949876",
+            "name": "Protein Type",
+            "displayType": "grid",
+            "values": [
+              {
+                "id": "30949874",
+                "name": "Beef",
+                "showCount": false,
+                "key": "proteinType",
+                "value": "beef",
+                "icon": {
+                  "url": "https://www.datocms-assets.com/81001/1665362077-mymc_icon-32-cart_without_white.svg"
+                },
+                "subValues": []
+              },
+              {
+                "id": "30949875",
+                "name": "Chicken",
+                "showCount": false,
+                "key": "proteinType",
+                "value": "chicken",
+                "icon": {
+                  "url": "https://www.datocms-assets.com/81001/1665362077-mymc_icon-32-cart_without_white.svg"
+                },
+                "subValues": []
+              }
+            ]
+          },
+          {
+            "id": "30949878",
+            "name": "Dietary Preference",
+            "displayType": "column",
+            "values": [
+              {
+                "id": "30949877",
+                "name": "No Added dairy",
+                "showCount": false,
+                "key": "dietary",
+                "value": "no-added-dairy",
+                "icon": {
+                  "url": "https://www.datocms-assets.com/81001/1665362077-mymc_icon-32-cart_without_white.svg"
+                },
+                "subValues": []
+              },
+              {
+                "id": "30949878",
+                "name": "Added dairy",
+                "showCount": false,
+                "key": "dietary",
+                "value": "added-dairy",
+                "icon": {
+                  "url": "https://www.datocms-assets.com/81001/1665362077-mymc_icon-32-cart_without_white.svg"
+                },
+                "subValues": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

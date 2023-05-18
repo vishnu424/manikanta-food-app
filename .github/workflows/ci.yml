@@ -1,0 +1,82 @@
+name: Test Check for PR
+on:
+  pull_request:
+    branches: [main, release]
+
+jobs:
+  # cypress:
+  #   runs-on: ubuntu-20.04
+  #   steps:
+  #     - name: Checkout 🛎
+  #       uses: actions/checkout@v2
+      
+  #     # Install NPM dependencies, cache them correctly
+  #     # and run all Cypress tests
+  #     - name: Install and run Cypress tests 🌲
+  #       uses: cypress-io/github-action@v4
+  #       env:
+  #         BACKEND_API: https://api-online.mycodechef.com
+  #       with:
+  #         build: npm run build
+  #         start: npm run start
+  #         wait-on: http://localhost:3000
+  #         browser: chrome
+      
+  #     # Upload failed test screenshots to github
+  #     - name: Store artifacts
+  #       uses: actions/upload-artifact@v2
+  #       if: failure()
+  #       with:
+  #         name: cypress-screenshots
+  #         path: cypress/screenshots
+
+  unit:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout 🛎
+        uses: actions/checkout@v2
+
+      # use actions/cache to restore / save cache
+      - name: Cache dependencies 💎
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          # use key string with "v1" for simple cache invalidation
+          key: dependencies-v1-${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Install dependencies 📦
+        run: npm ci
+        env:
+          # we do not need to install Cypress itself
+          # as we do not plan to run cypress tests
+          CYPRESS_INSTALL_BINARY: 0
+      
+      - name: Run Jest tests 🧪
+        run: npm run test
+
+  lint:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout 🛎
+        uses: actions/checkout@v2
+
+      # use actions/cache to restore / save cache
+      - name: Cache dependencies 💎
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          # use key string with "v1" for simple cache invalidation
+          key: dependencies-v1-${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Install dependencies 📦
+        run: npm ci
+        env:
+          # we do not need to install Cypress itself
+          # as we do not plan to run cypress tests
+          CYPRESS_INSTALL_BINARY: 0
+
+      - name: Run lint 👓
+        run: npm run lint
+
+      - name: Check types 🪛
+        run: npm run check-types

@@ -1,0 +1,115 @@
+{
+  "_id": "5ec52242a26a511660f1ee24",
+  "email": "bob@mymusclechef.com",
+  "firstName": "Bob",
+  "lastName": "Lin",
+  "credit": 30,
+  "referCode": "IGM2ZYDM",
+  "salesforceId": "00073013",
+  "phone": "0412345679",
+  "addresses": [
+    {
+      "addressId": "3185",
+      "method": "home",
+      "businessName": null,
+      "street": "313/7  Nepean Highway",
+      "suburb": "Elsternwick",
+      "postcode": "3185",
+      "state": "VIC",
+      "country": "AU",
+      "firstName": "Bob",
+      "lastName": "Lin",
+      "phone": "0412345678",
+      "preferred": false,
+      "instructions": null
+    },
+    {
+      "addressId": "4680",
+      "method": "home",
+      "businessName": null,
+      "street": "55 Central Lane",
+      "suburb": "Gladstone Central",
+      "postcode": "4680",
+      "state": "QLD",
+      "country": "AU",
+      "firstName": "Bob",
+      "lastName": "Lin",
+      "phone": "0412345678",
+      "preferred": false,
+      "instructions": null
+    },
+    {
+      "addressId": "Business ",
+      "method": "work",
+      "businessName": "Mymc ",
+      "street": "90 Phillip Street",
+      "suburb": "Parramatta",
+      "postcode": "2150",
+      "state": "NSW",
+      "country": "AU",
+      "firstName": "Bob",
+      "lastName": "Lin",
+      "phone": "0412345679",
+      "preferred": true,
+      "instructions": null
+    }
+  ],
+  "payments": [
+    {
+      "paymentInstrumentId": "6d6065e5452b6a9b8101c93fcd",
+      "paymentMethodId": "CREDITCARD",
+      "paymentMethodToken": "da8m7rgd",
+      "paypalAccountEmail": null,
+      "preferred": true,
+      "paymentCard": {
+        "type": "payment_card",
+        "cardType": "Visa",
+        "holder": null,
+        "maskedNumber": "************1119",
+        "expirationMonth": "12",
+        "expirationYear": "2025",
+        "numberLastDigits": "1119",
+        "creditCardExpired": false
+      }
+    },
+    {
+      "paymentInstrumentId": "81cf91bbaa0bc36c153c671efe",
+      "paymentMethodId": "PAYPAL",
+      "paymentMethodToken": "qqbwc419",
+      "paypalAccountEmail": "paypalmmctest@yopmail.com",
+      "paymentCard": null
+    },
+    {
+      "paymentInstrumentId": "d3333f7c7d1926300d236c4f94",
+      "paymentMethodId": "APPLEPAY",
+      "paymentMethodToken": "rrvffbwx",
+      "paypalAccountEmail": null,
+      "paymentCard": {
+        "type": "payment_card",
+        "cardType": "ApplePay",
+        "holder": "AmEx Apple Pay Cardholder",
+        "maskedNumber": "************1362",
+        "expirationMonth": "11",
+        "expirationYear": "2022",
+        "numberLastDigits": "1362",
+        "creditCardExpired": false
+      }
+    },
+    {
+      "paymentInstrumentId": "efaa10a7c2f3f36e1af0bef2fa",
+      "paymentMethodId": "GOOGLEPAY",
+      "paymentMethodToken": "b966p61k",
+      "paypalAccountEmail": null,
+      "paymentCard": {
+        "type": "payment_card",
+        "cardType": "GooglePay",
+        "holder": null,
+        "maskedNumber": "************4444",
+        "expirationMonth": "12",
+        "expirationYear": "2027",
+        "numberLastDigits": "4444",
+        "creditCardExpired": false
+      }
+    }
+  ]
+}
